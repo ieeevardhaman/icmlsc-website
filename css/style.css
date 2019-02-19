@@ -1,0 +1,27 @@
+body {
+    font-family: 'Lato';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900 !important;
+}
+
+.bg-brand {
+    background-color: #061636;
+}
+
+.masthead {
+    height: 600px;
+    background-image: url(/img/masthead-background.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.masthead .title {
+    font-size: 4em;
+    padding-top: 200px;
+}
+
+section .container {
+    padding: 50px 20px;
+}
