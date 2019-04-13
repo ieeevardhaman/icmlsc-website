@@ -1,6 +1,8 @@
 ---
-layout: home
+layout: default
 permalink: /
+---
+## About
 ---
 The ICMLSC 2019: International Conference on Machine Learning, Security and Cloud Computing aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Machine Learning, Security and Cloud Computing.
 
