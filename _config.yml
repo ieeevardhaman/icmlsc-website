@@ -4,3 +4,5 @@ author:
   email: pravanpaturi@gmail.com
 subtitle: International Conference on Machine Learning, Security and Cloud Computing
 description: ICMLSC 2019 is a conference on Machine Learning, Security and Cloud Computing.
+kramdown:
+  parse_block_html: true

@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /speakers
+---
+<h2>Speakers</h2>
+<hr>
+{% for speaker in site.data.speakers %}
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title text-center">{{ speaker.name }}</h4>
+    <h5 class="card-subtitle mb-2 text-muted text-center">{{ speaker.designation }}</h5>
+    <hr>
+    <div class="row card-text">
+      <div class="col-md-2 d-flex align-items-center justify-content-center">
+        <img src="/img/speakers/{{ speaker.image }}" width="120px" class="rounded-circle">
+      </div>
+      <div class="col-md-10">
+        <p>{{ speaker.text }}</p>
+      </div>
+    </div>
+  </div>
+</div>
+<br>
+{% endfor %}

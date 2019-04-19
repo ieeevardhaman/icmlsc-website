@@ -4,90 +4,153 @@ permalink: /committee
 ---
 ## Committee
 ---
-### International Program Committee
-- Dr. Susana Hernandez, Technical University, Madrid, Spain
-- Dr. Bin Wang, University of South Alabama.
-- Dr. Ulrik, Umea University, Sweden.
-- Dr. Jack Singh is Director of Swinburne’s Digital Innovation Lab, Austaralia.
-- Dr. T. Gunashekaran, Muscat, Sutanae of Oman.
-- Dr. Maheswara Rao Valluri, Fiji National University, Fiji
-- Dr. T. Sreenivas Sremath, Auckland University of Technology, New Zealand.
-- Dr. N. Subba Reddy, Gyeongsang National University, South Korea
-- Dr. Christopher Shelley, USA.
-- Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
-### Technical Program Committee
-- Dr. M. Ramsubba Reddy, IIT Madras
-- Dr. M. Veerachary, IIT Delhi
-- Dr. Srirama Srinivas, IIT Madras
-- Dr. Siva Kumar, IIT Hyderabad
-- Dr. B. K. Mohanthy, IIM Luknow
-- Dr. P. Viswanath, IIIT Sri City
-- Dr. K. S. Rajan, IIIT Hyderabad
-- Dr. C. Rama Krishna, NITTTR Chandigrah
-- Dr. Rakesh Kumar, NITTTR Chandigrah
-- Dr. U. S. N. Raju, NIT Warangal
-- Dr. D. M. Vonid Kumar, NIT Warangal
-- Dr. C. Venkaiah, NIT Warangal
-- Dr. T. Kishore Kumar, NIT Warangal
-- Dr. Akhilesh Swarup, NIT, Kurukshetra
-- Dr. C. Nagamani, NIT, Trichi
-- Dr. Sheron Figarado, NIT, Karnataka
-- Dr. B. Venugopal Reddy, NIT, Goa
-- Dr. V. Vijay Kumar, Rayalaseema University
-- Dr. Narayan Manjrekar, BITS Pilani, Goa
-- Dr. Lakshmana Gomathi Nayagam, NIT Trichy
-- Dr. S. Senthil Kumar, NIT Trichy
-- Dr. Dhritikesh Chakrabarty, Gauhati University
-- Dr. M. Naresh Kumar, Scientist, NRSC Hyderabad
-- Dr. Arif Sohel, MJCET Hyderabad
-- Dr. C. Shoba Bindu, JNTUA, Ananthapuramu
-- Mr. Bala, TCS Hyderabad
-- Dr. Abhishek, IBM, Hyderabad
-- Dr. Syamala, Professor, Osmania University
-- Dr. M. A. Jabbar, Vardaman college of Engineering, Hyderabad
-- Dr. Mousmi Chourasia, MJCET Hyderabad
-- Dr. C. Harinath, GPREC, Kurnool
-- Dr. B. Eswar Reddy, Professor, JNTUA, Ananthapuramu
-- Dr. A. Kavitha, JNTUH, Hyderabad
-- Dr. R. Sridevi, JNTUH, Hyderabad
-- Dr. Arya Bhattacharya, Mahindra Ecole, Hyderabad
-- Dr. N. Gnaneswar Rao, Vignan University, Guntur
-- Dr. P. Chandra Sekhar Reddy, JNTUH, Hyderabad
-- Dr. M. N. Giri Prasad, JNTUA, Ananthapuramu
-- Dr. V. Sumalatha, JNTUA, Ananthapuramu
-- Dr. D. Sreenivasa Rao, JNTUH, Hyderabad
-- Dr. Sathya Saritha, JNTUH, Hyderabad
-- Dr. K. Visaka, Andhra University
-- Dr. Ch. Sai Babu, JNTK, Kakinada.
-- Dr. S. Sivanagaraju, JNTK, Kakinada.
-- Dr. T Gouri Manohar, SVU College of Engineering, Tirupati
-- Dr. M. Vijaya Kumar, JNTUA, Ananthapuram
-- Dr. G V Marutheswar, S V University, Tirupathi
-- Dr. K. Nagabhushan Raju,  S K University, Ananthapuramu
-- Dr. Meenal Subject Matter Expert, Big Data, UpGrad, India
-- Dr. K. G. Sreenivasa, Assoc Professor, CBP Govt. Eng College, Delhi
-- Dr. T. V. Suresh Kumar, MSRIT, Bangalore
-- Dr. B. Poliah, KLUniversity, Vijayawada
-- Dr. G. Srinivasulu, Lakkireddy Balireddy College of Engineering
-- Dr. M. NagarajuNaik, CMRCET, Hyderabad.
-- Dr. A. Vani, CBIT, Hyderabad.
-- Dr. V. Usha Sree, JBREC, Hyderabad
-- Dr. N. MuraliKrishna, Sreyas Inst. of Engg. & Tech., Hyderabad
-- Dr. M. Mahesh, SVIT, Secundrabad
-- Mr. G. Siva Krisha, TCS, Bangalore
-- Dr. P. V. Prasad, CBIT, Hyderabad
-- Dr P. Srinivas Varma, KL University, Vijayawada
-- Dr. V. Vijaya Kishore, GPCET. Kurnool
+#### Chief Patron
 
-### Advisory Committee
-- Dr. S. Srinivas Kumar, Vice-Chancellor, JNTUA Ananthapuramu.
-- Dr. B. L. Deekshitulu, Fellow IEEE
-- Dr. Raghu Krishnapuramu, IISc., Bangalore, Fellow IEEE
-- Dr. P. N. Suganthan, Nanyang Technological University, Singapore. Fellow IEEE
-- Dr. Atul Negi, University of Hyderabad, Senior Member IEEE
-- Dr. Ramsubba Reddy, IIT Madras
-- Dr. C. Rama Krishna, NITTTR Chandighar.
-- Dr. K. Rajinikanth, Former Pricipal, MSRIT, Bangalore
-- Dr. M. L. Saikumar, Former Dean at Institute of Public Enterprise.
-- Mr. E. S. Chakravarthy, Centre Head, TCS, Bangalore
+Dr. T. Vijender Reddy, Chairman, VCE
+
+Sri M. Rajasekhar Reddy, Vice Chairman, VCE
+
+Sri T. Upender Reddy, Secretary, VCE
+
+Sri E. Prabhakar Reddy, Treasurer, VCE
+
+#### Patron
+
+Dr. S. Sai satyanarayana Reddy, Principal, VCE
+
+#### General Chairs
+
+Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
+
+Dr. Kethan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed University) and Director, Symbiosis Institute of Technology
+
+#### Organizing Chairs
+
+Dr. M. A. Jabbar, Professor & Head, Center for Data Science, Vardhaman College of Engineering, Hyderabad and Vice chair of IEEE CS Chapter, Hyderabad Section
+
+Dr. Rajanikanth Aluvalu, Assoc. Professor & Head, Center for Cloud Computing, Vardhaman College of Engineering, Hyderabad and Secretary of IEEE CS Chapter, Hyderabad Section
+
+#### Program Chairs
+
+Dr. Atul Negi, Professor, Hyderabad Central University 
+
+Dr. Deepak Garg, HOD and Professor, Bennett University, Noida
+
+Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
+
+#### International Program Committee
+
+Dr. Sumeet Dua, Lousiana Tech University, USA
+
+Mr. Raghunandan Alugubelli, University of South Florida
+
+Dr. H. Saparudin, University Sriwijaya, Indonesia
+
+Prof. Qusay H. Mahmoud, University of Ontario, Canada
+
+Dr. Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia 
+
+Dr. Nandita Sen Gupta, University of Bahrain 
+
+Dr. Susana Hernandez, Technical University, Madrid, Spain
+
+Prof. Kim Youn Sook, Korea
+
+Dr. Bin Wang, University of South Alabama
+
+Dr. Ulrik, Umea University, Sweden
+
+Prof. Ajith Abraham, Machine Intelligence Research Labs, United States
+
+Dr. Jack Singh, Director, Swinburne’s Digital Innovation Lab, Australia
+
+Dr. T. Gunashekaran, Muscat, Sutanae of Oman
+
+Dr. Maheswara Rao Valluri, Fiji National University, Fiji
+
+Dr. T. Sreenivas Sremath, Auckland University of Technology, New Zealand
+
+Dr. N. Subba Reddy, Gyeongsang National University, South Korea
+
+Dr. Christopher Shelley, USA
+
+Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
+
+#### Technical Program Committee
+
+Dr. M. Ramsubba Reddy, IIT Madras
+
+Dr. M. Veerachary, IIT Delhi
+
+Dr. Srirama Srinivas, IIT Madras
+
+Dr. B. K. Mohanthy, IIM Lucknow
+
+Dr. P. Viswanath, IIIT Sri City
+
+Dr. K. S. Rajan, IIIT Hyderabad
+
+Dr. C. Rama Krishna, NITTTR Chandigrah
+
+Dr. Rakesh Kumar, NITTTR Chandigrah
+
+Dr. U. S. N. Raju, NIT Warangal
+
+Dr. Akhilesh Swarup, NIT Kurukshetra
+
+Dr. C. Nagamani, NIT Trichy
+
+Dr. Sheron Figarado, NIT Karnataka
+
+Dr. B. Venugopal Reddy, NIT Goa
+
+Dr. Narayan Manjrekar, BITS Pilani, Goa
+
+Dr. Lakshmana Gomathi Nayagam, NIT Trichy
+
+Dr. S. Senthil Kumar, NIT Trichy
+
+Dr. Madhuri Bahvsar, Nirma University, Ahmedabad
+
+Dr. Mohammad Wajid, Aligarh Muslim University, Aligarh
+
+Dr. Sunil Kumar Vuppala, Principal Scientist, Philips
+
+Dr. R. B. Jadeja, Marwadi University
+
+Dr. Amit Lathigara, Marwadi University
+
+Dr. Salman Abdul Moiz, University of Hyderabad
+
+Dr. M. Naresh Kumar, Scientist, NRSC, Hyderabad
+
+Dr. Arif Sohel, MJCET, Hyderabad
+
+Mr. Bala Peddigari, TCS, Hyderabad
+
+Mr. T. Vidyasagar, TCS, Hyderabad
+
+Mr. Sitaram Tadepalli, TCS, Hyderabad 
+
+Dr. Hitendra Sharma, SRIT, Anantapur
+
+Mr. Sayan Putatunda, IIM Ahmedabad
+
+Dr. S. Bhaskar, Madurai
+
+Prof. Kavi Narayana Murthy, University of Hyderabad
+
+Dr. Vishwanadha Raju, JNTUHJ, Hyderabad
+
+Dr. K. M. V. V. Prasad, Sreyas Inst. of Engg & Tech., Hyderabad
+
+Dr. Meena Maralappanavar, KLE Technological University, Karnataka
+
+Dr. Satyadhyan Chickerur, KLE Technological University, Karnataka
+
+Mr. P. Ravi Shankar, IIIT Hyderabad
+
+Dr. Syamala, Professor, Osmania University, Hyderabad
+
+Dr. P. Chandra Sekhar Reddy, JNTUH, Hyderabad
