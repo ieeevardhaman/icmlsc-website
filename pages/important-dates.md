@@ -5,12 +5,10 @@ permalink: /important-dates
 ## Important Dates
 ---
 
-**Last date for submission:** 30th August, 2019
+**Last date for submission:** 5th October, 2019
 
-**Acceptance Notification:** 20th September, 2019
+**Acceptance Notification:** 10th November, 2019
 
-**Camera Ready Submission:** 5th October, 2019
+**Camera Ready Submission & Registration:** 15th November, 2019
 
-**Registration:** 10th October, 2019
-
-**Conference Dates:**  18th and 19th October 2019
+**Conference Dates:**  13th & 14th December, 2019
