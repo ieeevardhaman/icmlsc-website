@@ -39,6 +39,22 @@ Dr. Deepak Garg, HOD and Professor, Bennett University, Noida
 
 Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
+Prof. Vitoantonio Bevilacqua, USA
+
+Dr. Raman Menon Unnikrishnan, Professor, College of Engineering and Computer Science, California State University & Fellow, IEEE, USA
+
+Pr. Abdelkrim Haqiq, Director of Computer, Networks, Mobility and Modeling Laboratory, Morocco
+
+Mr. Shreyansh Gandhi, Principal Data Scientist, Walmart Labs, CA, USA
+
+Dr. Raman Arora, John Hopkins University, USA
+
+Prof. Rashmi Dravid, University of Northampton, UK
+
+Dr. Tianrui Li, Southwest Jiaotong University, China
+
+Prof. Lindy Nelson, University of Southern Mississippi, USA
+
 #### International Program Committee
 
 Dr. Sumeet Dua, Lousiana Tech University, USA
@@ -154,3 +170,29 @@ Mr. P. Ravi Shankar, IIIT Hyderabad
 Dr. Syamala, Professor, Osmania University, Hyderabad
 
 Dr. P. Chandra Sekhar Reddy, JNTUH, Hyderabad
+
+## International Publicity chairs
+
+Dr. Ramalingam, Majan College (University College), Oman
+
+Dr. A. R. N. Shankarappa, Middle East College, Muscat
+
+Dr. Nagesha Poojary, Middle East College, Muscat
+
+Dr. Shawon Rahman, University of Hawaii, USA
+
+Dr. Arun, Middle East College of Engineering, Sultanate of Oman
+
+Prof. Supriya Byreddy, University of Southern Mississippi, USA
+
+## National Publicity Chair
+
+Prof. Rajmohan Pardeshi, KSACC, Kollam, India
+
+Dr. Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
+
+Dr. Ajay Shanker Singh, Galgotia University, Noida, India
+
+Dr. K. H. Wandra, C. U. Shaw University , Wadhwan, India
+
+Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
