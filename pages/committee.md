@@ -31,6 +31,10 @@ Dr. M. A. Jabbar, Professor & Head, Center for Data Science, Vardhaman College o
 
 Dr. Rajanikanth Aluvalu, Assoc. Professor & Head, Center for Cloud Computing, Vardhaman College of Engineering, Hyderabad and Secretary of IEEE CS Chapter, Hyderabad Section
 
+#### Publication Chair
+
+Prof. Rajmohan Pardeshi, KASCC, Bidar, India
+
 #### Program Chairs
 
 Dr. Atul Negi, Professor, Hyderabad Central University 
@@ -39,7 +43,7 @@ Dr. Deepak Garg, HOD and Professor, Bennett University, Noida
 
 Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
-Prof. Vitoantonio Bevilacqua, USA
+Prof. Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
 
 Dr. Raman Menon Unnikrishnan, Professor, College of Engineering and Computer Science, California State University & Fellow, IEEE, USA
 
@@ -171,7 +175,7 @@ Dr. Syamala, Professor, Osmania University, Hyderabad
 
 Dr. P. Chandra Sekhar Reddy, JNTUH, Hyderabad
 
-## International Publicity chairs
+#### International Publicity chairs
 
 Dr. Ramalingam, Majan College (University College), Oman
 
@@ -185,9 +189,7 @@ Dr. Arun, Middle East College of Engineering, Sultanate of Oman
 
 Prof. Supriya Byreddy, University of Southern Mississippi, USA
 
-## National Publicity Chair
-
-Prof. Rajmohan Pardeshi, KSACC, Kollam, India
+#### National Publicity Chair
 
 Dr. Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
