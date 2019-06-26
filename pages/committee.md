@@ -15,6 +15,8 @@ Sri T. Upender Reddy, Secretary, VCE
 
 Sri E. Prabhakar Reddy, Treasurer, VCE
 
+Dr. K. Mallikharjuna Babu, CEO, VCE
+
 #### Patron
 
 Dr. S. Sai satyanarayana Reddy, Principal, VCE
