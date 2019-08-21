@@ -101,81 +101,75 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 #### Technical Program Committee
 
-Dr. M. Ramsubba Reddy, IIT Madras
+Viswanath Pulabaigari,	IIIT Sri city
 
-Dr. M. Veerachary, IIT Delhi
+B.K Mohanty,	IIM Lucknow
 
-Dr. Srirama Srinivas, IIT Madras
+Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
 
-Dr. B. K. Mohanthy, IIM Lucknow
+Amit Lathigara	Associate Professor, Marwadi Education Foundation's Group of Institutions
 
-Dr. P. Viswanath, IIIT Sri City
+Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
 
-Dr. K. S. Rajan, IIIT Hyderabad
+Sayan Putatunda,	Indian Institute of Management Ahmedabad
 
-Dr. C. Rama Krishna, NITTTR Chandigrah
+Mohd Dilshad Ansari, Ph.D	jaypee university,India
 
-Dr. Rakesh Kumar, NITTTR Chandigrah
+Sree Ranjani Rajendran,	IIT Madras
 
-Dr. U. S. N. Raju, NIT Warangal
+Ferdin Joe John Joseph,	Thai-Nichi Institute of Technology,Thailand
 
-Dr. Akhilesh Swarup, NIT Kurukshetra
+Dr. Anand Nayyar,	Duy Tan University,Vietnam
 
-Dr. C. Nagamani, NIT Trichy
+Dr. Chinmay Chakraborty,	BITS Ranchi,India
 
-Dr. Sheron Figarado, NIT Karnataka
+Prakash Subramaniam,	satyabhama university,India
 
-Dr. B. Venugopal Reddy, NIT Goa
+Mohammed Riyaz Ahmed,	Reva University ,Bangalore
 
-Dr. Narayan Manjrekar, BITS Pilani, Goa
+Raja Sarath Kumar Boddu,	Lenora college of engineering
 
-Dr. Lakshmana Gomathi Nayagam, NIT Trichy
+T.chandrasekaran,	Excel Business School,India
 
-Dr. S. Senthil Kumar, NIT Trichy
+J.DENY,	President KARE- Institute Innovation Council,India
 
-Dr. Madhuri Bahvsar, Nirma University, Ahmedabad
+John Son,	Alagappa University
 
-Dr. Mohammad Wajid, Aligarh Muslim University, Aligarh
+Sandhiya Ravi,	CIT,Coimbatore
 
-Dr. Sunil Kumar Vuppala, Principal Scientist, Philips
+Dr.PARUL DAWAR,	Guru Tegh Bahadur Institute of Technology,India
 
-Dr. R. B. Jadeja, Marwadi University
+Tushar Jaware,	Amaravathi University,India
 
-Dr. Amit Lathigara, Marwadi University
+Harihara Sudhan Ramakrishnan,	Corporate finance institute ,India
 
-Dr. Salman Abdul Moiz, University of Hyderabad
+R.Balasubramani,	NMAM University
 
-Dr. M. Naresh Kumar, Scientist, NRSC, Hyderabad
+Dr. Vikram Kulkarni,	VIT university,Vellore
 
-Dr. Arif Sohel, MJCET, Hyderabad
+Dr. Kodhmuri Venkat Satish,	IIIT SRIKAKULAM, India
 
-Mr. Bala Peddigari, TCS, Hyderabad
+Professor Dr. K. V. Kale,	Dr. BAM University Aurangabad, India
 
-Mr. T. Vidyasagar, TCS, Hyderabad
+Prof. Dr. D S Guru,	Mysore University, Mysore, India
 
-Mr. Sitaram Tadepalli, TCS, Hyderabad 
+Dr. Sidharth Dabhade,	MGM GYP College of CS & IT, Aurangabad
 
-Dr. Hitendra Sharma, SRIT, Anantapur
+Dr. Prapti D Deshmukh,	Principal, MGM GYP College of CS & IT, Aurangabad
 
-Mr. Sayan Putatunda, IIM Ahmedabad
+Dr. Mallikarjun Hangarge,	Karnatak Arts, Science and  Commerce College, Bidar
 
-Dr. S. Bhaskar, Madurai
+Dr. Ajita Rattani, Wichita State University, KANSAS
 
-Prof. Kavi Narayana Murthy, University of Hyderabad
+Dr. Vilas M Thakare,	S G B Amravati University,  Maharashtra, India
 
-Dr. Vishwanadha Raju, JNTUHJ, Hyderabad
+Dr. B V Pawar,	North Maharashtra University, Jalgoan, India
 
-Dr. K. M. V. V. Prasad, Sreyas Inst. of Engg & Tech., Hyderabad
+Dr. Bharath K. Samanthula,	Montclair State University, USA
 
-Dr. Meena Maralappanavar, KLE Technological University, Karnataka
+Dr. Abdulkadir Sengur,	Firat University, Turkey 
 
-Dr. Satyadhyan Chickerur, KLE Technological University, Karnataka
-
-Mr. P. Ravi Shankar, IIIT Hyderabad
-
-Dr. Syamala, Professor, Osmania University, Hyderabad
-
-Dr. P. Chandra Sekhar Reddy, JNTUH, Hyderabad
+Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar
 
 #### International Publicity chairs
 
