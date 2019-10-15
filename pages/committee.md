@@ -111,8 +111,6 @@ Amit Lathigara	Associate Professor, Marwadi Education Foundation's Group of Inst
 
 Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
 
-Sayan Putatunda,	Indian Institute of Management Ahmedabad
-
 Mohd Dilshad Ansari, Ph.D	jaypee university,India
 
 Sree Ranjani Rajendran,	IIT Madras
