@@ -7,7 +7,7 @@ permalink: /submission
 
 #### Information and Guidelines for Authors:
 
-Prospective authors are invited to submit original and unpublished research papers by the deadline, for publication in the conference proceedings and for oral presentation during the conference. All submissions should be written in English with a maximum paper length of seven (8 to 12) printed pages including (figures, tables and references) in IoP Press LNCS format preferably in LaTeX.
+Prospective authors are invited to submit original and unpublished research papers by the deadline, for publication in the conference proceedings and for oral presentation during the conference. All submissions should be written in English with a maximum paper length of seven (8 to 12) printed pages including (figures, tables and references) in IoP Press format.
 
 Two maximum additional pages are allowed on payment basis of Rs.700/per page.
 
