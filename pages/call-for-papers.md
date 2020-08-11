@@ -81,7 +81,7 @@ The 2nd edition of this international conference, ICMLSC invites the original re
 
 #### Publication and Indexing:
 
-All accepted and presented papers will be included in the conference proceedings to be published by Springer Nature. (In communication)
+All accepted and presented papers will be included in the conference proceedings to be published by IoP Press
 
 **Indexing:** The books of this series are submitted to ISI Proceedings, EI-Compendex, SCOPUS, MetaPress, Springerlink
 
