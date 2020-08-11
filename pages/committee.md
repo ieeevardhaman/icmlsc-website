@@ -15,23 +15,21 @@ Sri T. Upender Reddy, Secretary, VCE
 
 Sri E. Prabhakar Reddy, Treasurer, VCE
 
-Dr. K. Mallikharjuna Babu, CEO, VCE
-
 #### Patron
 
 Dr. S. Sai satyanarayana Reddy, Principal, VCE
 
-#### General Chairs
+#### Honorary Chairs
 
 Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
 
 Dr. Kethan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed University) and Director, Symbiosis Institute of Technology
 
-#### Organizing Chairs
+#### General Chairs
 
-Dr. M. A. Jabbar, Professor & Head, Center for Data Science, Vardhaman College of Engineering, Hyderabad and Vice chair of IEEE CS Chapter, Hyderabad Section
+Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad and Vice chair of IEEE CS Chapter, Hyderabad Section
 
-Dr. Rajanikanth Aluvalu, Assoc. Professor & Head, Center for Cloud Computing, Vardhaman College of Engineering, Hyderabad and Secretary of IEEE CS Chapter, Hyderabad Section
+Dr. Rajanikanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad and Treasurer of IEEE CS Chapter, Hyderabad Section
 
 #### Publication Chair
 
