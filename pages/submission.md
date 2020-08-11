@@ -7,7 +7,7 @@ permalink: /submission
 
 #### Information and Guidelines for Authors:
 
-Prospective authors are invited to submit original and unpublished research papers by the deadline, for publication in the conference proceedings and for oral presentation during the conference. All submissions should be written in English with a maximum paper length of seven (8 to 12) printed pages including (figures, tables and references) in springer LNCS format preferably in LaTeX.
+Prospective authors are invited to submit original and unpublished research papers by the deadline, for publication in the conference proceedings and for oral presentation during the conference. All submissions should be written in English with a maximum paper length of seven (8 to 12) printed pages including (figures, tables and references) in IoP Press LNCS format preferably in LaTeX.
 
 Two maximum additional pages are allowed on payment basis of Rs.700/per page.
 
@@ -47,7 +47,7 @@ All final submissions should be in a .zip compressed archive including:
 
 - The dully filled and signed copyright form.
  
-#### Springer Policy on Plagiarism
+#### IoP Press Policy on Plagiarism
 
 - Authors are requested to kindly refrain from plagiarism in any form. Authors should submit their original and unpublished research work not under consideration for publication elsewhere.
 
@@ -57,4 +57,4 @@ All final submissions should be in a .zip compressed archive including:
 
 - Hence, it is the responsibility of each author to strive for the highest ethical standards with respect to plagiarism.
 
-- Springer policy on plagiarism can be checked in Springer website directly.
+- IoP Press policy on plagiarism can be checked in IoP Press website directly.
