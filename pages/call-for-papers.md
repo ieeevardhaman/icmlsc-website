@@ -7,7 +7,7 @@ permalink: /call-for-papers
 
 ICMLSC focuses on both theory and applications Machine Learning, Security and cloud computing. This conference aims to bring together the academia, researchers, developers and practitioners from scientific organizations and industry to share and disseminate recent research findings in the fields of Machine Learning, Security and cloud computing and its applications. ICMLSC is an outstanding platform to discuss the key findings, exchanging novel ideas, listening to the world class leaders and sharing experiences with peer groups. The conference will provide the opportunities of collaboration with national and international organization of repute to the research community. ICMLSC expects a large number of participants and submissions from worldwide. 
 
-All the accepted and presented papers expected to be published in Springer (to be communicated). The paper will be indexed in ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, Google Scholar, and Scopus
+All the accepted and presented papers expected to be published in IoP Press. The paper will be indexed in ISI Conference Proceedings Citation Index - Science (CPCI-S), included in ISI Web of Science, Google Scholar, and Scopus
 
 The 2nd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
 
@@ -83,6 +83,6 @@ The 2nd edition of this international conference, ICMLSC invites the original re
 
 All accepted and presented papers will be included in the conference proceedings to be published by IoP Press
 
-**Indexing:** The books of this series are submitted to ISI Proceedings, EI-Compendex, SCOPUS, MetaPress, Springerlink
+**Indexing:** The books of this series are submitted to ISI Proceedings, EI-Compendex, SCOPUS, MetaPress, IoP Press
 
 Extended versions of accepted and presented papers will be published in the **“International Journal of Computing and Digital Systems”**, a Scopus indexed journal.
