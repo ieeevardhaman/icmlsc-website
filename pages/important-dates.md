@@ -11,4 +11,4 @@ permalink: /important-dates
 
 **Camera Ready Submission & Registration:** 10th June, 2020
 
-**Conference Dates:**  18th & 19th June, 2020
+**Conference Dates:**  18th & 19th December, 2020
