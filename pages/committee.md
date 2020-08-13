@@ -185,19 +185,6 @@ Dr. Anand Khandare, Thakur college of engineering and technology, India
 
 Dr. Hemant Kumar Gianey, Thapar Institute of Engineering &Technology, Patiala, India
 
-#### Local Organizing Committee
-
-Dr. Gouse Baig Mohammad
-
-Prof. S. Venu Gopal
-
-Ms. S. Shobha Rani
-
-Mr. GS Prasad Reddy
-
-Mr. Ganesh Deshmukh
-
-MS. M. Swapna
 
 #### International Publicity chairs
 
@@ -222,3 +209,17 @@ Dr. Ajay Shanker Singh, Galgotia University, Noida, India
 Dr. K. H. Wandra, C. U. Shaw University , Wadhwan, India
 
 Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
+
+#### Local Organizing Committee
+
+Dr. Gouse Baig Mohammad, Vardhaman College of Engineering
+
+Prof. S. Venu Gopal, Vardhaman College of Engineering
+
+Ms. S. Shobha Rani, Vardhaman College of Engineering
+
+Mr. GS Prasad Reddy, Vardhaman College of Engineering
+
+Mr. Ganesh Deshmukh, Vardhaman College of Engineering
+
+MS. M. Swapna, Vardhaman College of Engineering
