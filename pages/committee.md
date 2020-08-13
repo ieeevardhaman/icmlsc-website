@@ -31,6 +31,8 @@ Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineeri
 
 Dr. Rajanikanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad and Treasurer of IEEE CS Chapter, Hyderabad Section
 
+Dr. JVR Ravindra, Professor and Dean Academics, Vardhaman College of Engineering
+
 #### Publication Chair
 
 Prof. Rajmohan Pardeshi, KASCC, Bidar, India
@@ -38,8 +40,6 @@ Prof. Rajmohan Pardeshi, KASCC, Bidar, India
 #### Program Chairs
 
 Dr. Atul Negi, Professor, Hyderabad Central University 
-
-Dr. Deepak Garg, HOD and Professor, Bennett University, Noida
 
 Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
@@ -58,6 +58,10 @@ Prof. Rashmi Dravid, University of Northampton, UK
 Dr. Tianrui Li, Southwest Jiaotong University, China
 
 Prof. Lindy Nelson, University of Southern Mississippi, USA
+
+Dr. Sanju Tiwari, MIR Labs, India
+
+Dr. Shishir Kumar Shandilya, VIT Bhopal University
 
 #### International Program Committee
 
@@ -96,6 +100,14 @@ Dr. N. Subba Reddy, Gyeongsang National University, South Korea
 Dr. Christopher Shelley, USA
 
 Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
+
+
+#### Technical Program Committee Chairs
+
+Dr. Amit Lathigara, Associate Professor, Marwadi Education Foundation’s Group of Institutions
+
+Prof. Uma Maheshwari, Vardhaman College of Engineering
+
 
 #### Technical Program Committee
 
@@ -165,7 +177,27 @@ Dr. Bharath K. Samanthula,	Montclair State University, USA
 
 Dr. Abdulkadir Sengur,	Firat University, Turkey 
 
-Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar
+Mr. Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar, India
+
+Dr. Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India 
+
+Dr. Anand Khandare, Thakur college of engineering and technology, India 
+
+Dr. Hemant Kumar Gianey, Thapar Institute of Engineering &Technology, Patiala, India
+
+#### Local Organizing Committee
+
+Dr. Gouse Baig Mohammad
+
+Prof. S. Venu Gopal
+
+Ms. S. Shobha Rani
+
+Mr. GS Prasad Reddy
+
+Mr. Ganesh Deshmukh
+
+MS. M. Swapna
 
 #### International Publicity chairs
 
