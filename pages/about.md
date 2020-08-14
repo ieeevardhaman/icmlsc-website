@@ -10,4 +10,4 @@ The ICMLSC 2020: International Conference on Machine Learning, Security and Clou
 
 It also provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of Machine Learning, Security and Cloud Computing.
 
-ICMLSC is organized by Department of Computer Science and Engineering, Vardhaman College of Engineering, Hyderabad.
+ICMLSC is organized by Department of Computer Science and Engineering and Department of AI & ML, Vardhaman College of Engineering, Hyderabad.
