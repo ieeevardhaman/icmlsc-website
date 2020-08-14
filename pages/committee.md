@@ -104,6 +104,8 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 #### Technical Program Committee Chairs
 
+Prof. Rajmohan Pardeshi, KASCC, Bidar, India
+
 Prof. Uma Maheshwari, Vardhaman College of Engineering
 
 
