@@ -58,3 +58,7 @@ All final submissions should be in a .zip compressed archive including:
 - Hence, it is the responsibility of each author to strive for the highest ethical standards with respect to plagiarism.
 
 - IoP Press policy on plagiarism can be checked in IoP Press website directly.
+
+#### Submission Link
+
+<https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICMLSC2020>
