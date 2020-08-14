@@ -35,9 +35,7 @@ Dr. JVR Ravindra, Professor and Dean Academics, Vardhaman College of Engineering
 
 #### Publication Chair
 
-Prof. Rajmohan Pardeshi, KASCC, Bidar, India
-
-Dr Amit Lathigara, Director, SOE ,RK University, India
+Dr. Amit Lathigara, Director, SOE ,RK University, India
 
 #### Program Chairs
 
