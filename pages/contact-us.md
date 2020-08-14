@@ -12,3 +12,7 @@ permalink: /contact-us
 #### Dr. Rajanikanth Aluvalu
 
 **Email:** <rajanikanth.aluvalu@vardhaman.org>
+
+#### Dr. JVR Ravindra
+
+**Email:** <Jvr.ravindra@vardhaman.org>
