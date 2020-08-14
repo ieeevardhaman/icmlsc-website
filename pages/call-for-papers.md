@@ -79,6 +79,30 @@ The 2nd edition of this international conference, ICMLSC invites the original re
 </div>
 </div>
 
+<div class="row">
+<div class="col-md-4" markdown="1">
+##### Track 4
+- IoT Network Design and Architecture
+- IoT enabled Software Architectures and Middleware
+- Mobile cloud and IoT services
+- Data models, Tiny/small databases for IoT devices
+- Context-awareness in cloud and IoT
+- IoT and cloud security
+- Coftware-defined Networking (SDN) support for Cloud and IoT
+- Performance modelling in cloud and IoT
+- IoT Services and Applications
+- SMART Environment
+</div>
+<div class="col-md-3" markdown="1">
+##### Track 5
+- Audio signal processing
+- Speech signal processing .
+- Image processing
+- Video processing
+- Applications of machine learning in signal processing
+</div>
+</div>
+
 #### Publication and Indexing:
 
 All accepted and presented papers will be included in the conference proceedings to be published by IOP Conference Series: Materials Science and Engineering
