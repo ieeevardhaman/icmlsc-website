@@ -37,6 +37,8 @@ Dr. JVR Ravindra, Professor and Dean Academics, Vardhaman College of Engineering
 
 Prof. Rajmohan Pardeshi, KASCC, Bidar, India
 
+Dr Amit Lathigara, Director, SOE ,RK University, India
+
 #### Program Chairs
 
 Dr. Atul Negi, Professor, Hyderabad Central University 
@@ -103,8 +105,6 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 
 #### Technical Program Committee Chairs
-
-Dr. Amit Lathigara, Associate Professor, Marwadi Education Foundation’s Group of Institutions
 
 Prof. Uma Maheshwari, Vardhaman College of Engineering
 
