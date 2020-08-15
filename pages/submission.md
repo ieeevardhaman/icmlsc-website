@@ -73,4 +73,4 @@ All final submissions should be in a .zip compressed archive including:
 
 #### Paper Templete In Word
 
-[Get Here](../img/RT (PNG).png)
+[Get Here](doc/Paper template in word.doc)
