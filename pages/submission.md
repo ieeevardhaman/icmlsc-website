@@ -69,7 +69,7 @@ All final submissions should be in a .zip compressed archive including:
 
 #### Sample Article For Submission
 
-[Get Here](../img/RT (PNG).png)
+[Get Here](doc/Sample Article -for Reference.pdf)
 
 #### Paper Templete In Word
 
