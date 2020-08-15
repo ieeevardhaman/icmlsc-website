@@ -62,3 +62,11 @@ All final submissions should be in a .zip compressed archive including:
 #### Submission Link
 
 <https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICMLSC2020>
+
+#### Author guidelines for conference proceedings
+
+<https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/>
+
+#### Sample Article for submission
+
+[Get Here](../img/RT (PNG).png)
