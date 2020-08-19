@@ -16,3 +16,5 @@ permalink: /contact-us
 #### Dr. JVR Ravindra
 
 **Email:** <Jvr.ravindra@vardhaman.org>
+
+**Email:** <icmlsc@vardhaman.org>
