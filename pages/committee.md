@@ -121,6 +121,8 @@ Dr. Kantipudi MVV Prasad, Sreyas institute of engineering and technology
 
 Amit Lathigara,	Associate Professor, Marwadi Education Foundation's Group of Institutions
 
+Dr. C. Balarengadurai, Professor, MLRITM, Hyderabad
+
 Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
 
 Mohd Dilshad Ansari, Ph.D	jaypee university,India
