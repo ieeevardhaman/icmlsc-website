@@ -117,7 +117,9 @@ B.K Mohanty,	IIM Lucknow
 
 Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
 
-Amit Lathigara	Associate Professor, Marwadi Education Foundation's Group of Institutions
+Dr. Kantipudi MVV Prasad, Sreyas institute of engineering and technology
+
+Amit Lathigara,	Associate Professor, Marwadi Education Foundation's Group of Institutions
 
 Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
 
