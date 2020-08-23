@@ -23,7 +23,7 @@ Dr. S. Sai satyanarayana Reddy, Principal, VCE
 
 Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
 
-Dr. Kethan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed University) and Director, Symbiosis Institute of Technology
+Dr. Ketan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed University) and Director, Symbiosis Institute of Technology
 
 #### General Chairs
 
