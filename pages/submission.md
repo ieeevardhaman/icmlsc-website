@@ -59,6 +59,8 @@ All final submissions should be in a .zip compressed archive including:
 
 - IoP Press policy on plagiarism can be checked in IoP Press website directly.
 
+- All papers published in this volume of IOP Conference Series: Materials Science and Engineering have been peer reviewed through processes administered by the Editors. Reviews were conducted by expert referees to the professional and scientific standards expected of a proceedings journal published by IOP Publishing.
+
 #### Submission Link
 
 <https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICMLSC2020>
