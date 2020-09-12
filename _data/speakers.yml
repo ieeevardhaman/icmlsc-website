@@ -1,3 +1,17 @@
+- name: Dr. B. L. Deekshatulu
+  designation: 
+  image: deekshatulu.jpg
+  text: >-
+    Bulusu Lakshmana Deekshatulu (born 31 October 1936, India) is an Indian academic who has made important 
+    contributions to Digital Image Processing and Control Theory. He is a Fellow of The World Academy of Sciences, 
+    Fellow of Indian National Science Academy, The National Academy of Sciences, India, Indian Academy of Sciences, 
+    Indian National Academy of Engineering, National Academy of Agricultural Sciences, and IEEE. He was a recipient 
+    of Padma Shri conferred by the Government of India. He worked at the Indian Institute of Science as a 
+    Professor, National Remote Sensing Centre of Indian Space Research Organisation as a Director and 
+    Distinguished Scientist. He also worked as a Director, Centre for Space Science Technology Education in 
+    Asia & the Pacific - affiliated to UN-Dehradun as a Founding Director.
+
+
 - name: Dr. Wael Elmedany
   designation: Professor, University of Bahrain
   image: wael.jpg
@@ -22,20 +36,7 @@
     He has successfully completed his Administrative responsibilities. He has authored of many research 
     articles/books related to computer science, automating algorithmic processes,computational systems, 
     computational complexity theory, computer graphics, programming language theory, Human–computer interaction."
-
-- name: Dr. Mohd Wajid
-  designation: Assistant Professor, Aligarh Muslim University, Aligarh
-  image: wajid.jpg
-  text: >-
-    Wajid did his B.Tech (Electronics) from AMU - Aligarh and M.Tech (VLSI and Embedded Systems) from 
-    IIIT Hyderabad. He obtained PhD degree in Signal Processing from Indian Institute of Technology Delhi, India. 
-    His doctoral work was on Design and Analysis of Microphone based Acoustic Vector Sensor for 2D Direction of 
-    Arrival Estimation. Before joining Aligarh Muslim University, he was associated with Jaypee University of 
-    Information Technology - Solan, Texas Instruments - Bangalore, Xilinx India Technology Services Private 
-    Limited - Hyderabad, and also he served as a Senior Engineer in the "Professional Electronics and Industrial 
-    System Division" of Blue Star Limited - New Delhi.
-
-
+    
 - name: Dr.Ketan Kotecha
   designation: Dean, Faculty of Engineering, Symbiosis International ( Deemed University) & Director, Symbiosis Institute of Technology
   image: ketan.jpg
@@ -51,7 +52,8 @@
     Scheme for Promotion of Academic and Research Collaboration(SPARC) by MHRD, GoI respectively. He is also 
     a team member for the nationwide initiative on "AI and deep learning Skilling and Research named 
     Leadingindia.ai initiative sponsored by Royal Academy of Engineering, UK under Newton Bhabha Fund.
-
+    
+    
 - name: Dr. Atul Negi 
   designation: Professor, University of Hyderabad, India
   image: atul.png
@@ -61,19 +63,28 @@
     Investigator in funded projects from ISRO, Ministry of Communication and IT. 
     Scientific officer for DRDO Project COMRADES at IISc.
     Formerly Visiting Faculty of International Institute of Information Technology, Hyderabad
-
-- name: Dr. B. L. Deekshatulu
+    
+- name: Dr. Shishir K Shandilya
   designation: 
-  image: deekshatulu.jpg
+  image: drsks.jpg
   text: >-
-    Bulusu Lakshmana Deekshatulu (born 31 October 1936, India) is an Indian academic who has made important 
-    contributions to Digital Image Processing and Control Theory. He is a Fellow of The World Academy of Sciences, 
-    Fellow of Indian National Science Academy, The National Academy of Sciences, India, Indian Academy of Sciences, 
-    Indian National Academy of Engineering, National Academy of Agricultural Sciences, and IEEE. He was a recipient 
-    of Padma Shri conferred by the Government of India. He worked at the Indian Institute of Science as a 
-    Professor, National Remote Sensing Centre of Indian Space Research Organisation as a Director and 
-    Distinguished Scientist. He also worked as a Director, Centre for Space Science Technology Education in 
-    Asia & the Pacific - affiliated to UN-Dehradun as a Founding Director.
+    Dr. Shishir K Shandilya is a visiting researcher at Liverpool Hope University, Cambridge University Certified Trainer, Division Head-Cyber Security at VITB, and  
+    ACM Distinguished Speaker.
+    
+
+- name: Dr. Mohd Wajid
+  designation: Assistant Professor, Aligarh Muslim University, Aligarh
+  image: wajid.jpg
+  text: >-
+    Wajid did his B.Tech (Electronics) from AMU - Aligarh and M.Tech (VLSI and Embedded Systems) from 
+    IIIT Hyderabad. He obtained PhD degree in Signal Processing from Indian Institute of Technology Delhi, India. 
+    His doctoral work was on Design and Analysis of Microphone based Acoustic Vector Sensor for 2D Direction of 
+    Arrival Estimation. Before joining Aligarh Muslim University, he was associated with Jaypee University of 
+    Information Technology - Solan, Texas Instruments - Bangalore, Xilinx India Technology Services Private 
+    Limited - Hyderabad, and also he served as a Senior Engineer in the "Professional Electronics and Industrial 
+    System Division" of Blue Star Limited - New Delhi.
+
+
     
     
 - name: Dr.Sanju Tiwari
@@ -116,11 +127,5 @@
     Served as a Lecturer in the Department of Computer Science and Engineering in JIS College of Engineering, Kalyani, Nadia, West Bengal from 2006 to 2008.
     Served as a Lecturer in the Department of Computer Science and Engineering in Hooghly Engineering and Technology College, Hooghly, West Bengal, 2005-2006.
     
-- name: Dr. Shishir K Shandilya
-  designation: 
-  image: drsks.jpg
-  text: >-
-    Dr. Shishir K Shandilya is a visiting researcher at Liverpool Hope University, Cambridge University Certified Trainer, Division Head-Cyber Security at VITB, and  
-    ACM Distinguished Speaker.
-    
+
 
