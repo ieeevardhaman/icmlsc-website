@@ -9,6 +9,6 @@ permalink: /important-dates
 
 **Acceptance Notification:** 25th October, 2020
 
-**Camera Ready Submission & Registration:** 25th October, 2020
+**Camera Ready Submission & Registration:** 1st November, 2020
 
 **Conference Dates:**  18th & 19th December, 2020
