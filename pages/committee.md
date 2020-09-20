@@ -111,6 +111,8 @@ Prof. Uma Maheshwari, Vardhaman College of Engineering
 
 #### Technical Program Committee
 
+Dr. H. Venkateswara Reddy, Professor, Vardhaman College of Engineering
+
 Viswanath Pulabaigari,	IIIT Sri city
 
 B.K Mohanty,	IIM Lucknow
