@@ -17,7 +17,7 @@ Sri E. Prabhakar Reddy, Treasurer, VCE
 
 #### Patron
 
-Dr. S. Sai satyanarayana Reddy, Principal, VCE
+Dr. JVR Ravindra , Principal, VCE
 
 #### Honorary Chairs
 
@@ -31,7 +31,7 @@ Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineeri
 
 Dr. Rajanikanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad and Treasurer of IEEE CS Chapter, Hyderabad Section
 
-Dr. JVR Ravindra, Professor and Dean Academics, Vardhaman College of Engineering
+Dr. JVR Ravindra, Principal, Vardhaman College of Engineering
 
 #### Publication Chair
 
