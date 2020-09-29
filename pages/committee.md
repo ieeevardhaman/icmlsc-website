@@ -117,6 +117,8 @@ Viswanath Pulabaigari,	IIIT Sri city
 
 B.K Mohanty,	IIM Lucknow
 
+PRABIRA KUMAR SETHY, SAMBALPUR UNIVERSITY, JYOTI VIHAR, BURLA
+
 Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
 
 Dr. Kantipudi MVV Prasad, Sreyas institute of engineering and technology
