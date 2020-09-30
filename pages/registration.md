@@ -13,4 +13,4 @@ These are the registration costs for various types of participants:
 | Faculty / Research Scholar (Full Time)                      | ₹6000 | $130 |
 | Student (UG/PG)              | ₹5000 | $110 |
 
-Registration link: 
+Registration link: <https://www.townscript.com/e/international-conference-on-machine-learning-security-and-cloud-computing-140023>
