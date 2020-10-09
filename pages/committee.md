@@ -121,6 +121,8 @@ PRABIRA KUMAR SETHY, SAMBALPUR UNIVERSITY, JYOTI VIHAR, BURLA
 
 Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
 
+Dr. Arun Raj, Cresent University, India
+
 Dr. Kantipudi MVV Prasad, Sreyas institute of engineering and technology
 
 Amit Lathigara,	Associate Professor, Marwadi Education Foundation's Group of Institutions
