@@ -5,7 +5,7 @@ permalink: /important-dates
 ## Important Dates
 ---
 
-**Last date for submission:** 10th October, 2020
+**Last date for submission:** 12th October, 2020
 
 **Acceptance Notification:** 25th October, 2020
 
