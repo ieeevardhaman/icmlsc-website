@@ -3,6 +3,10 @@ layout: default
 permalink: /
 ---
 #### Due to rapidly changing COVID situations globally ICMLSC will take place online
+
+#### Sample Article For Submission
+
+[Get Here](doc/Sample Article -for a1.pdf)
 ---
 ## About
 ---
