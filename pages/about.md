@@ -6,7 +6,7 @@ permalink: /
 
 #### Sample Article For Submission
 
-[Get Here](doc/Sample Article -for a1.pdf)
+[Get Here](doc/accepted papers round -1.pdf)
 ---
 ## About
 ---
