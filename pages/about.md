@@ -4,7 +4,7 @@ permalink: /
 ---
 #### Due to rapidly changing COVID situations globally ICMLSC will take place online
 
-#### Sample Article For Submission
+#### Accepted Papers After Round 1
 
 [Get Here](doc/accepted papers round -1.pdf)
 ---
