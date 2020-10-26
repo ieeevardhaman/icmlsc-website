@@ -17,4 +17,4 @@ These are the registration costs for various types of participants:
 
 #### Registration Form: 
 
-[Get Here] (doc/Registration form.doc)
+[Get Here](doc/Registration form.doc)
