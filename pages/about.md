@@ -7,6 +7,10 @@ permalink: /
 #### Accepted Papers After Round 1
 
 [Get Here](doc/accepted papers round -1.pdf)
+
+#### Accepted Papers After Round 2
+
+[Get Here](doc/Round 2accepted papers.pdf)
 ---
 ## About
 ---
