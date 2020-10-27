@@ -3,16 +3,17 @@ layout: default
 permalink: /
 ---
 #### Due to rapidly changing COVID situations globally ICMLSC will take place online
-
-#### Accepted Papers List 1
+---
+### Accepted Papers
+#### List 1
 
 [Get Here](doc/accepted papers round -1.pdf)
 
-#### Accepted Papers List 2
+#### List 2
 
 [Get Here](doc/Round 2accepted papers.pdf) 
 
-#### Accepted Papers List 3
+#### List 3
 
 [Get Here](doc/final list (1).pdf)
 ---
