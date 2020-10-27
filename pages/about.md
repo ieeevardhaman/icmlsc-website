@@ -4,15 +4,15 @@ permalink: /
 ---
 #### Due to rapidly changing COVID situations globally ICMLSC will take place online
 
-#### Accepted Papers After Round 1
+#### Accepted Papers List 1
 
 [Get Here](doc/accepted papers round -1.pdf)
 
-#### Accepted Papers After Round 2
+#### Accepted Papers List 2
 
 [Get Here](doc/Round 2accepted papers.pdf) 
 
-#### Accepted Papers After Final Round
+#### Accepted Papers List 3
 
 [Get Here](doc/final list (1).pdf)
 ---
