@@ -85,11 +85,7 @@ Dr. Bin Wang, University of South Alabama
 
 Dr. Ulrik, Umea University, Sweden
 
-Prof. Ajith Abraham, Machine Intelligence Research Labs, United States
-
 Dr. Jack Singh, Director, Swinburne’s Digital Innovation Lab, Australia
-
-Dr. T. Gunashekaran, Muscat, Sutanae of Oman
 
 Dr. Maheswara Rao Valluri, Fiji National University, Fiji
 
@@ -198,15 +194,7 @@ Dr. Hemant Kumar Gianey, Thapar Institute of Engineering &Technology, Patiala, I
 
 #### International Publicity chairs
 
-Dr. Ramalingam, Majan College (University College), Oman
-
-Dr. A. R. N. Shankarappa, Middle East College, Muscat
-
-Dr. Nagesha Poojary, Middle East College, Muscat
-
 Dr. Shawon Rahman, University of Hawaii, USA
-
-Dr. Arun, Middle East College of Engineering, Sultanate of Oman
 
 Prof. Supriya Byreddy, University of Southern Mississippi, USA
 
