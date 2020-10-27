@@ -18,3 +18,7 @@ These are the registration costs for various types of participants:
 #### Registration Form: 
 
 [Get Here](doc/Registration form.doc)
+
+#### Camera Ready Paper Guidelines:
+
+[Get Here](doc/ICMLSC2020 CRC guidelines.pdf)
