@@ -5,10 +5,10 @@ permalink: /important-dates
 ## Important Dates
 ---
 
-**Last date for submission:** 12th October, 2020
+**Last date for submission:**  1st August,2021
 
-**Acceptance Notification:** 25th October, 2020
+**Acceptance Notification:** 20th August,2021
 
-**Camera Ready Submission & Registration:** 1st November, 2020
+**Camera Ready Submission & Registration:**  1st September,2021
 
-**Conference Dates:**  18th & 19th December, 2020
+**Conference Dates:**  3rd & 4th September,2021
