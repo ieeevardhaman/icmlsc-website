@@ -49,17 +49,6 @@ All final submissions should be in a .zip compressed archive including:
  
 #### IoP Press Policy on Plagiarism
 
-- Authors are requested to kindly refrain from plagiarism in any form. Authors should submit their original and unpublished research work not under consideration for publication elsewhere.
-
-- Papers found to be plagiarized during any stage of review shall be rejected.
-
-- As per copyright transfer agreement, Authors are deemed to be individually and collectively responsible for the content of manuscripts published by them.
-
-- Hence, it is the responsibility of each author to strive for the highest ethical standards with respect to plagiarism.
-
-- IoP Press policy on plagiarism can be checked in IoP Press website directly.
-
-- All papers published in this volume of IOP Conference Series: Materials Science and Engineering have been peer reviewed through processes administered by the Editors. Reviews were conducted by expert referees to the professional and scientific standards expected of a proceedings journal published by IOP Publishing.
 
 #### Submission Link
 
@@ -67,7 +56,7 @@ All final submissions should be in a .zip compressed archive including:
 
 #### Author Guidelines For Conference Proceedings
 
-<https://publishingsupport.iopscience.iop.org/author-guidelines-for-conference-proceedings/>
+
 
 #### Sample Article For Submission
 
