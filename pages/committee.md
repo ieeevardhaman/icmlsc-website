@@ -27,15 +27,14 @@ Dr. Ketan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed
 
 #### General Chairs
 
-Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad and Vice chair of IEEE CS Chapter, Hyderabad Section
+Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad and Chair IEEE CS Chapter, Hyderabad Section
 
-Dr. Rajanikanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad and Treasurer of IEEE CS Chapter, Hyderabad Section
+Dr. Sanju Tiwari, Sr. Researcher, Universidad Autonoma de Tamaulipas, Mexico
 
-Dr. JVR Ravindra, Principal, Vardhaman College of Engineering
+Dr KC Santosh , Chair and Associate Professor of the Department of Computer Science (CS) ,University of South Dakota (USD),USA
 
 #### Publication Chair
 
-Dr. Amit Lathigara, Director, SOE ,RK University, India
 
 #### Program Chairs
 
@@ -99,10 +98,6 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 
 #### Technical Program Committee Chairs
-
-Prof. Rajmohan Pardeshi, KASCC, Bidar, India
-
-Prof. Uma Maheshwari, Vardhaman College of Engineering
 
 
 #### Technical Program Committee
@@ -194,9 +189,6 @@ Dr. Hemant Kumar Gianey, Thapar Institute of Engineering &Technology, Patiala, I
 
 #### International Publicity chairs
 
-Dr. Shawon Rahman, University of Hawaii, USA
-
-Prof. Supriya Byreddy, University of Southern Mississippi, USA
 
 #### National Publicity Chair
 
