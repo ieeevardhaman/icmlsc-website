@@ -210,14 +210,3 @@ Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
 
 #### Local Organizing Committee
 
-Dr. Gouse Baig Mohammad, Vardhaman College of Engineering
-
-Prof. S. Venu Gopal, Vardhaman College of Engineering
-
-Ms. S. Shobha Rani, Vardhaman College of Engineering
-
-Mr. GS Prasad Reddy, Vardhaman College of Engineering
-
-Mr. Ganesh Deshmukh, Vardhaman College of Engineering
-
-MS. M. Swapna, Vardhaman College of Engineering
