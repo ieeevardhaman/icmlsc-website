@@ -111,4 +111,4 @@ All accepted and presented papers will be included in the conference proceedings
 
 Extended versions of accepted and presented papers will be published in the **“International Journal of Computing and Digital Systems”**, a Scopus indexed journal.
 
-![IoP Press]({{ site.baseurl }}/img/IoP.jpeg)
+
