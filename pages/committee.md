@@ -200,5 +200,25 @@ Dr. K. H. Wandra, C. U. Shaw University , Wadhwan, India
 
 Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
 
+### Advisory Committee
+
+Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
+
+Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad 
+
+Dr. Muni Sekhar Velpuru, Associate Professor & HOD, IT, Vardhaman College of Engineering, Hyderabad
+
+Dr. G.A.E.Satish Kumar, Professor & HOD, ECE, Vardhaman College of Engineering, Hyderabad
+
+Dr.Kiran Kumar N, Professor & HOD, EEE, Vardhaman College of Engineering, Hyderabad
+
+Dr. P. Srinivasa Rao, HOD, Mechanical Engineering, Vardhaman College of Engineering, Hyderabad
+
+Dr. G. MALLIKARJUNA RAO, HOD, Civil Engineering, Vardhaman College of Engineering, Hyderabad
+
+Dr D Srinivas Reddy, HOD, Faculty Freshman Engineering, Vardhaman College of Engineering, Hyderabad
+
+Dr. V Sreehari, HOD, MBA, Vardhaman College of Engineering, Hyderabad
+
 #### Local Organizing Committee
 
