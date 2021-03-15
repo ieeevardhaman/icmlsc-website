@@ -47,12 +47,6 @@ All final submissions should be in a .zip compressed archive including:
 
 - The dully filled and signed copyright form.
  
-#### IoP Press Policy on Plagiarism
-
-
-#### Submission Link
-
-<https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FICMLSC2020>
 
 #### Author Guidelines For Conference Proceedings
 
