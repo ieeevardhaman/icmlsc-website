@@ -37,6 +37,9 @@ Dr KC Santosh , Chair and Associate Professor of the Department of Computer Scie
 
 #### Publication Chair
 
+Onur Dogan, Ph.D, İzmir Bakırçay University
+
+
 
 #### Program Chairs
 
