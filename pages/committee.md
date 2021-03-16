@@ -60,8 +60,6 @@ Dr. Tianrui Li, Southwest Jiaotong University, China
 
 Prof. Lindy Nelson, University of Southern Mississippi, USA
 
-Dr. Sanju Tiwari, MIR Labs, India
-
 Dr. Shishir Kumar Shandilya, VIT Bhopal University
 
 #### International Program Committee
@@ -104,7 +102,25 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 #### Technical Program Committee
 
-Dr. H. Venkateswara Reddy, Professor, Vardhaman College of Engineering
+Halyna Vasyalevska, West Ukrainian National University, Ukraine
+
+Luigi Troiano, University of Salerno, Italy 
+
+Reshmy Krishnan,  Muscat College,  Oman
+
+Mooring Youp Director,  Open university Malaysia
+
+Dr. Abdallah MERAOUMIA, ALGERIA
+
+Pr WAHABI AICHA, Morocco
+
+Samir AMRAQUI, Université Mohamed Premier,Oujda, Maroc
+
+Mostafa EL HABIB DAHO ,Algeria
+
+Roshan G. Ragel,  University of Peradeniya, Consultant | Lanka Education and Research Network (LEARN)
+
+Randima Dinalankara, University of Sri Jayewardenepura
 
 Viswanath Pulabaigari,	IIIT Sri city
 
@@ -115,12 +131,6 @@ PRABIRA KUMAR SETHY, SAMBALPUR UNIVERSITY, JYOTI VIHAR, BURLA
 Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
 
 Dr. Arun Raj, Cresent University, India
-
-Dr. Kantipudi MVV Prasad, Sreyas institute of engineering and technology
-
-Amit Lathigara,	Associate Professor, Marwadi Education Foundation's Group of Institutions
-
-Dr. C. Balarengadurai, Professor, MLRITM, Hyderabad
 
 Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
 
@@ -140,33 +150,11 @@ Mohammed Riyaz Ahmed,	Reva University ,Bangalore
 
 Raja Sarath Kumar Boddu,	Lenora college of engineering
 
-T.chandrasekaran,	Excel Business School,India
-
-J.DENY,	President KARE- Institute Innovation Council,India
-
-John Son,	Alagappa University
-
-Sandhiya Ravi,	CIT,Coimbatore
-
-Dr.PARUL DAWAR,	Guru Tegh Bahadur Institute of Technology,India
-
-Tushar Jaware,	Amaravathi University,India
-
-Harihara Sudhan Ramakrishnan,	Corporate finance institute ,India
-
 R.Balasubramani,	NMAM University
 
 Dr. Vikram Kulkarni,	VIT university,Vellore
 
 Dr. Kodhmuri Venkat Satish,	IIIT SRIKAKULAM, India
-
-Professor Dr. K. V. Kale,	Dr. BAM University Aurangabad, India
-
-Prof. Dr. D S Guru,	Mysore University, Mysore, India
-
-Dr. Sidharth Dabhade,	MGM GYP College of CS & IT, Aurangabad
-
-Dr. Prapti D Deshmukh,	Principal, MGM GYP College of CS & IT, Aurangabad
 
 Dr. Mallikarjun Hangarge,	Karnatak Arts, Science and  Commerce College, Bidar
 
@@ -183,11 +171,6 @@ Dr. Abdulkadir Sengur,	Firat University, Turkey
 Mr. Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar, India
 
 Dr. Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India 
-
-Dr. Anand Khandare, Thakur college of engineering and technology, India 
-
-Dr. Hemant Kumar Gianey, Thapar Institute of Engineering &Technology, Patiala, India
-
 
 #### International Publicity chairs
 
