@@ -37,9 +37,9 @@ Dr KC Santosh , Chair and Associate Professor of the Department of Computer Scie
 
 #### Publication Chair
 
+Dr. Fernando Ortiz-Rodriguez
+
 Onur Dogan, Ph.D, İzmir Bakırçay University
-
-
 
 #### Program Chairs
 
@@ -121,7 +121,7 @@ Samir AMRAQUI, Université Mohamed Premier,Oujda, Maroc
 
 Mostafa EL HABIB DAHO ,Algeria
 
-Roshan G. Ragel,  University of Peradeniya, Consultant | Lanka Education and Research Network (LEARN)
+Roshan G. Ragel,  University of Peradeniya, Consultant, Lanka Education and Research Network (LEARN)
 
 Randima Dinalankara, University of Sri Jayewardenepura
 
