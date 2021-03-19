@@ -41,6 +41,8 @@ Dr. Fernando Ortiz-Rodriguez
 
 Onur Dogan, Ph.D, İzmir Bakırçay University
 
+Patience Usoro Usip,Nizeria
+
 #### Program Chairs
 
 Dr. Atul Negi, Professor, Hyderabad Central University 
@@ -175,10 +177,7 @@ Mr. Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar, Ind
 
 Dr. Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India 
 
-#### International Publicity chairs
-
-
-#### National Publicity Chair
+#### Publicity Chair
 
 Dr. Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
@@ -187,6 +186,10 @@ Dr. Ajay Shanker Singh, Galgotia University, Noida, India
 Dr. K. H. Wandra, C. U. Shaw University , Wadhwan, India
 
 Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
+
+Prof V Uma Maheshwari
+
+Hilal ARSLAN ,Bahrain
 
 ### Advisory Committee
 
