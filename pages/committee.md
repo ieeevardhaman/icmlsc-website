@@ -101,10 +101,6 @@ Dr. Christopher Shelley, USA
 
 Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
-
-#### Technical Program Committee Chairs
-
-
 #### Technical Program Committee
 
 Halyna Vasyalevska, West Ukrainian National University, Ukraine
@@ -179,6 +175,8 @@ Dr. Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India
 
 #### Publicity Chair
 
+Prof V Uma Maheshwari, Vardhaman College of Engineering, Hyderabad
+
 Dr. Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
 Dr. Ajay Shanker Singh, Galgotia University, Noida, India
@@ -187,15 +185,9 @@ Dr. K. H. Wandra, C. U. Shaw University , Wadhwan, India
 
 Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
 
-Prof V Uma Maheshwari
-
 Hilal ARSLAN ,Bahrain
 
 ### Advisory Committee
-
-Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
-
-Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad 
 
 Dr. Muni Sekhar Velpuru, Associate Professor & HOD, IT, Vardhaman College of Engineering, Hyderabad
 
@@ -212,4 +204,10 @@ Dr D Srinivas Reddy, HOD, Faculty Freshman Engineering, Vardhaman College of Eng
 Dr. V Sreehari, HOD, MBA, Vardhaman College of Engineering, Hyderabad
 
 #### Local Organizing Committee
+
+P Swetha , Vardhaman College of Engineering
+
+D Sowmya ,Vardhaman College of Engineering
+
+Dr M Y Babu,Vardhaman College of Engineering
 
