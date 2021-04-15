@@ -105,7 +105,7 @@ The 2nd edition of this international conference, ICMLSC invites the original re
 
 #### Publication and Indexing:
 
-All accepted and presented papers will be included in the conference proceedings to be published by IOP Conference Series: Materials Science and Engineering
+It is planned to publish the proceedings with Springer in their Communications in Computer and Information Science series (final approval pending)
 
 **Indexing:** The books of this series are submitted to ISI Proceedings, EI-Compendex, SCOPUS, MetaPress, IoP Press
 
