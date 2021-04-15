@@ -5,7 +5,7 @@ permalink: /important-dates
 ## Important Dates
 ---
 
-**Last date for submission:**  10<sup>Th</sup> July,2021
+**Last date for submission:**  10th July,2021
 
 **Acceptance Notification:** 20th August,2021
 
