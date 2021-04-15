@@ -33,8 +33,6 @@ Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering,
 
 Dr. Sanju Tiwari, Sr. Researcher, Universidad Autonoma de Tamaulipas, Mexico
 
-Dr KC Santosh , Chair and Associate Professor of the Department of Computer Science (CS) ,University of South Dakota (USD),USA
-
 #### Publication Chair
 
 Dr. Fernando Ortiz-Rodriguez
