@@ -101,75 +101,109 @@ Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 #### Technical Program Committee
 
+Hilal ARSLAN ,Bahrain
+
 Halyna Vasyalevska, West Ukrainian National University, Ukraine
 
-Luigi Troiano, University of Salerno, Italy 
+Luigi Troiano, University of Salerno, Italy
 
-Reshmy Krishnan,  Muscat College,  Oman
+Reshmy Krishnan, Muscat College, Oman
 
-Mooring Youp Director,  Open university Malaysia
+Mooring Youp Director, Open university Malaysia
 
-Dr. Abdallah MERAOUMIA, ALGERIA
+Abdallah MERAOUMIA, ALGERIA
 
-Pr WAHABI AICHA, Morocco
+WAHABI AICHA, Morocco
 
 Samir AMRAQUI, Université Mohamed Premier,Oujda, Maroc
 
 Mostafa EL HABIB DAHO ,Algeria
 
-Roshan G. Ragel,  University of Peradeniya, Consultant, Lanka Education and Research Network (LEARN)
+Roshan G. Ragel, University of Peradeniya, Consultant, Lanka Education and Research Network (LEARN)
 
 Randima Dinalankara, University of Sri Jayewardenepura
 
-Viswanath Pulabaigari,	IIIT Sri city
+Viswanath Pulabaigari, IIIT Sri city
 
-B.K Mohanty,	IIM Lucknow
+B.K Mohanty, IIM Lucknow
 
 PRABIRA KUMAR SETHY, SAMBALPUR UNIVERSITY, JYOTI VIHAR, BURLA
 
-Dr. Lakshmana Gomathi Nayagam, 	NIT Trichy
+Lakshmana Gomathi Nayagam, NIT Trichy
 
-Dr. Arun Raj, Cresent University, India
+Arun Raj, Cresent University, India
 
-Dr. Salman Abdul Moiz,	Associate Professor, School of Computer & Information Sciences, University of Hyderabad (HCU)
+Salman Abdul Moiz, University of Hyderabad (HCU)
 
-Mohd Dilshad Ansari, Ph.D	jaypee university,India
+Mohd Dilshad Ansari, jaypee university,India
 
-Sree Ranjani Rajendran,	IIT Madras
+Sree Ranjani Rajendran, IIT Madras
 
-Ferdin Joe John Joseph,	Thai-Nichi Institute of Technology,Thailand
+Ferdin Joe John Joseph, Thai-Nichi Institute of Technology,Thailand
 
-Dr. Anand Nayyar,	Duy Tan University,Vietnam
+Chinmay Chakraborty, BITS Ranchi,India
 
-Dr. Chinmay Chakraborty,	BITS Ranchi,India
+Prakash Subramaniam, satyabhama university,India
 
-Prakash Subramaniam,	satyabhama university,India
+Mohammed Riyaz Ahmed, Reva University ,Bangalore
 
-Mohammed Riyaz Ahmed,	Reva University ,Bangalore
+Raja Sarath Kumar Boddu, Lenora college of engineering
 
-Raja Sarath Kumar Boddu,	Lenora college of engineering
+R.Balasubramani, NMAM University
 
-R.Balasubramani,	NMAM University
+Vikram Kulkarni, VIT university,Vellore
 
-Dr. Vikram Kulkarni,	VIT university,Vellore
+Kodhmuri Venkat Satish, IIIT SRIKAKULAM, India
 
-Dr. Kodhmuri Venkat Satish,	IIIT SRIKAKULAM, India
+Mallikarjun Hangarge, Karnatak Arts, Science and Commerce College, Bidar
 
-Dr. Mallikarjun Hangarge,	Karnatak Arts, Science and  Commerce College, Bidar
+Ajita Rattani, Wichita State University, KANSAS
 
-Dr. Ajita Rattani, Wichita State University, KANSAS
+Vilas M Thakare, S G B Amravati University, Maharashtra, India
 
-Dr. Vilas M Thakare,	S G B Amravati University,  Maharashtra, India
+B V Pawar, North Maharashtra University, Jalgoan, India
 
-Dr. B V Pawar,	North Maharashtra University, Jalgoan, India
+Bharath K. Samanthula, Montclair State University, USA
 
-Dr. Bharath K. Samanthula,	Montclair State University, USA
+Abdulkadir Sengur, Firat University, Turkey
 
-Dr. Abdulkadir Sengur,	Firat University, Turkey 
+Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India
 
-Mr. Rajmohan Pardeshi, 	Karnatak Arts, Science and  Commerce College, Bidar, India
+Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
-Dr. Shilpa Shailesh Gite, Symbiosis Institute of Technology, Pune, India 
+Sumeet Dua, Lousiana Tech University, USA
+
+H. Saparudin, University Sriwijaya, Indonesia
+
+Qusay H. Mahmoud, University of Ontario, Canada
+
+Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia
+
+Nandita Sen Gupta, University of Bahrain
+
+Susana Hernandez, Technical University, Madrid, Spain
+
+Prof. Kim Youn Sook, Korea
+
+Bin Wang, University of South Alabama
+
+Ulrik, Umea University, Sweden
+
+Jack Singh, Director, Swinburne’s Digital Innovation Lab, Australia
+
+Maheswara Rao Valluri, Fiji National University, Fiji
+
+Sreenivas Sremath, Auckland University of Technology, New Zealand
+
+N. Subba Reddy, Gyeongsang National University, South Korea
+
+Christopher Shelley, USA
+
+V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
+
+Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
+
+Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
 
 #### Publicity Chair
 
