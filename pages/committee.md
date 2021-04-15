@@ -205,6 +205,48 @@ Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
 Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
 
+Mohammad Rafik Bouguelia (Halmstad University, Sweden)
+
+Patrice Boursier (International medical university, Malaysia)
+
+Mufti Mahmum (Nottingham Trent University, UK)
+
+P Sivakumara (University of Malay, Malaysia)
+
+Fernando Ortiz-Rodriguez, Universidad Autonoma de Tamaulipas, Mexico
+
+Ketan Kotecha, Director, Symbiosis Institute of Technology, India
+
+Bozenna Pasik Duncan, University of Kansas ,USA
+
+Ahmed Al Durra , Khalifa University ,UAE
+
+Mahdi Fathi, University of North Texas,USA
+
+Sailesh Iyer ,Rai Universty ,India
+
+Osamah Khalaf,Iraq
+
+Sanjeev Kumar Padmanabhan,Denmark
+
+Thomas Hanne, Olten, Solothurn, Switzerland
+
+A/Prof (Dr) Abeer Alsadoon, Adjunct Associate Professor at Charles Sturt University,Greater Sydney
+
+Amirrudin Kamsin, Acting Director at University of Malaya Centre for Continuing Education (UMCCed),Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+
+SAN MURUGESAN, Life Senior Member at IEEE, Sydney, New South Wales, Australia
+
+M. Affan Badar, Professor, Indiana State University,Terre Haute, Indiana, United States
+
+Aswani Kumar Cherukuri, Professor, School of IT & Engineering, Vellore Institute of Technology, Vellore,India
+
+Puneet Kumar Mishra, Head, Satellite Antenna Characterization, Test & Design Section at U R RAO SATELLITE CENTRE, India
+
+Celia Shahnaz, Bangladesh University of Engineering & Technology,Bangladesh
+
+Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
+
 #### Publicity Chair
 
 Prof V Uma Maheshwari, Vardhaman College of Engineering, Hyderabad
