@@ -58,3 +58,11 @@ table table {
     max-width: 150px;
     margin: 20px 40px;
 }
+
+.springer logo
+{
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
