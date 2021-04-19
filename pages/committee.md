@@ -41,6 +41,8 @@ Onur Dogan, Ph.D, İzmir Bakırçay University
 
 Patience Usoro Usip,Nizeria
 
+Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
+
 #### Program Chairs
 
 Dr. Atul Negi, Professor, Hyderabad Central University 
@@ -244,8 +246,6 @@ Aswani Kumar Cherukuri, Professor, School of IT & Engineering, Vellore Institute
 Puneet Kumar Mishra, Head, Satellite Antenna Characterization, Test & Design Section at U R RAO SATELLITE CENTRE, India
 
 Celia Shahnaz, Bangladesh University of Engineering & Technology,Bangladesh
-
-Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 #### Publicity Chair
 
