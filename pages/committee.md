@@ -101,6 +101,8 @@ Dr. Christopher Shelley, USA
 
 Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
+Chandra kudumula, USA
+
 #### Technical Program Committee
 
 Hilal ARSLAN ,Bahrain
