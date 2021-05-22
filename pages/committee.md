@@ -31,8 +31,6 @@ Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineeri
 
 Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
 
-Dr. Sanju Tiwari, Sr. Researcher, Universidad Autonoma de Tamaulipas, Mexico
-
 #### Publication Chair
 
 Dr. Fernando Ortiz-Rodriguez
