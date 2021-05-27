@@ -99,7 +99,7 @@ Dr. Christopher Shelley, USA
 
 Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
-Chandra kudumula, Seniior program analyst, USA
+Chandra kudumula, Senior program analyst, USA
 
 #### Technical Program Committee
 
