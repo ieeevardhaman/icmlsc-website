@@ -11,5 +11,5 @@ permalink: /important-dates
 
 **Camera Ready Submission & Registration:**  15th October, 2021
 
-**Conference Dates:**  28th and 29th January, 2021
+**Conference Dates:**  28th and 29th January, 2022
 
