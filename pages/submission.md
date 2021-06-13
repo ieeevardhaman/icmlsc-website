@@ -9,8 +9,6 @@ permalink: /submission
 
 Papers are expected to be within the 8-15 page range. The review process takes into account both the quality in writing and the scientific impact of the work. Authors should clearly identify the problem, their contribution(s), justification with respect to the state-of-the-art works
 
-Two maximum additional pages are allowed on payment basis of Rs.700/per page.
-
 #### Initial Submission and Evaluation:
 
 - The manuscripts for initial submission should be submitted in a single. Doc or .PDF format file.
