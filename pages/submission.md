@@ -7,7 +7,7 @@ permalink: /submission
 
 #### Information and Guidelines for Authors:
 
-Prospective authors are invited to submit original and unpublished research papers by the deadline, for publication in the conference proceedings and for oral presentation during the conference. All submissions should be written in English with a maximum paper length of seven (8 to 12) printed pages including (figures, tables and references) in IoP Press format.
+Papers are expected to be within the 8-15 page range. The review process takes into account both the quality in writing and the scientific impact of the work. Authors should clearly identify the problem, their contribution(s), justification with respect to the state-of-the-art works
 
 Two maximum additional pages are allowed on payment basis of Rs.700/per page.
 
@@ -15,7 +15,7 @@ Two maximum additional pages are allowed on payment basis of Rs.700/per page.
 
 - The manuscripts for initial submission should be submitted in a single. Doc or .PDF format file.
 
-- Authors are instructed not to include name and affiliation details in the paper as conference follows double blind review process.
+- Authors are instructed not to include name and affiliation details in the paper as conference follows single blind review process.
 
 - All papers will be assigned a paper ID. You will receive this ID after you have completed the paper submission process. Authors are then required to use the paper ID assigned to them for all future correspondence regarding this paper.
 
@@ -50,12 +50,9 @@ All final submissions should be in a .zip compressed archive including:
 
 #### Author Guidelines For Conference Proceedings
 
-
-
 #### Sample Article For Submission
 
-[Get Here](doc/Sample Article -for Reference.pdf)
+[Get Here](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 
-#### Paper Templete In Word
+[Get Here](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)
 
-[Get Here](doc/Paper template in word.doc)
