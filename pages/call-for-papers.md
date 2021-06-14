@@ -9,7 +9,7 @@ ICMLSC focuses on both theory and applications Machine Learning, Security and cl
 
 It is planned to publish the proceedings with Springer in their Communications in Computer and Information Science series (final approval pending)
 
-The 2nd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
+The 3rd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
 
 <div class="row">
 <div class="col-md-4" markdown="1">
