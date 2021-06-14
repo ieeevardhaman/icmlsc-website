@@ -5,20 +5,7 @@ permalink: /registration
 ## Registration
 ---
 
-These are the registration costs for various types of participants:
 
-| Type of Author               |   INR |  USD |
-| :--------------------------- | ----: | ---: |
-| Industry Expert              | ₹8500 | $150 |
-| Faculty / Research Scholar (Full Time)                      | ₹6000 | $130 |
-| Student (UG/PG)              | ₹5000 | $110 |
+##THIS IS A FREE REGISTRATION EVENT
 
-#### Registration link: <https://www.townscript.com/e/international-conference-on-machine-learning-security-and-cloud-computing-140023>
-
-#### Registration Form: 
-
-[Get Here](doc/Registration form.doc)
-
-#### Camera Ready Paper Guidelines:
-
-[Get Here](doc/ICMLSC2020 CRC guidelines.pdf)
+The event is supported by the Vardhaman College of Engineering, and it is a FREE admission event, but registration is needed.   Certificate of attendance will be issued for the presentation of technical papers, (and/or), attendance of the conference.  Certificates will be emailed to participants automatically, immediately after the end of the conference.
