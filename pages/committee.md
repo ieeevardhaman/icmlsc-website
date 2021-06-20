@@ -37,10 +37,6 @@ Patience Usoro Usip, Nizeria
 
 Dr. Fernando Ortiz-Rodriguez
 
-Onur Dogan, Ph.D, İzmir Bakırçay University
-
-Patience Usoro Usip,Nizeria
-
 Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 #### Program Chairs
