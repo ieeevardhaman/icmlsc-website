@@ -27,11 +27,11 @@ Dr. Ketan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed
 
 #### General Chairs
 
-Dr. M. A. Jabbar, Professor & HOD, CSE (AI & ML), Vardhaman College of Engineering, Hyderabad and Chair IEEE CS Chapter, Hyderabad Section
-
 Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
 
-Dr. Sanju Tiwari ,Universidad Autonoma de Tamaulipas, Mexico
+Onur Dogan, Ph.D, İzmir Bakırçay University
+
+Patience Usoro Usip, Nizeria
 
 #### Publication Chair
 
