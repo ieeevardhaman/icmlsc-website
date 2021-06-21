@@ -29,9 +29,9 @@ Dr. Ketan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed
 
 Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
 
-Onur Dogan, Ph.D, İzmir Bakırçay University
+Dr Ali Kashif Bashir, Associate Professor (Senior Lecturer), Manchester Metropolitan University, UK.
 
-Patience Usoro Usip, Nizeria
+Dr shankaru Gujjari, Data Engineer, India
 
 #### Publication Chair
 
