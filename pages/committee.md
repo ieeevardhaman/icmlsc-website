@@ -95,6 +95,169 @@ Chandra kudumula, Senior program analyst, USA
 
 #### Technical Program Committee
 
+
+M. A. Jabbar (Vardhaman College of Engineering, India)
+
+Fernando Ortiz-Rodriguez (Universidad Autonoma de Tamaulipas, Mexico)
+
+Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)
+
+Patrick Siarry (University of Paris-Est Créteil,France)
+
+Guzhan Menemencioglu (Karabuk University, Turki)
+
+Ignacio Raul (Public University of Navarra, Spain)
+
+Antonio	 López-Martín (Public University of Navarra, Spain)
+
+José Javier Astráin-Escola (Public University of Navarra, Spain)
+
+Rajab	Challoo (Texas A & M Ville University KingsVilley, Texas)
+
+Moufida Maimour (Université de Lorraine, CRAN, France)
+
+Iman El Mir (FST, Hassan 1st University, Settat, Morocco)
+
+Mohamed Nabil	 (FST, Hassan 1st University, Morocco)
+
+Ifiok Udo (University of Uyo, Nigeria)
+
+Sven Groppe (Universität zu Lübeck,Germany)
+
+Meriem Djezzar	 (LIRE Laboratory, Mentouri University of Constantine, Algeria)
+
+Antonio	De Nicola (ENEA, Italy)
+
+David Hicks (Texas A & M Ville University KingsVilley, Texas)
+
+Mohammad Alnassar (Universiti Kebangsaan Malaysia, Malaysia)
+
+Petko	Rutesic	 (Baden-Wuerttemberg Cooperative State University (DHBW), Germany)
+
+Imed Ben Dhaou (University of Turku, Finland)
+
+Nandana Mihindukulasooriya ( IBM Research AI, Ireland)
+
+Hemam	 Mounir	 (Khenchela University, Algeria)
+
+Sydney Kasongo (Stellenbosch University, Stellenbosch, South Africa)
+
+Emmanuel Dufourq (Stellenbosch University, Stellenbosch, South Africa)
+
+Jacomine Grobler (Stellenbosch University, Stellenbosch, South Africa)
+
+Stephan Nel (Stellenbosch University, Stellenbosch, South Africa)
+
+Anna Bosman (Stellenbosch University, Stellenbosch, South Africa)
+
+Marde Helbig (Griffith University, Queensland, Australia) 
+
+Kyle Harrison (University of News South Wales, Sydney, Australia)
+
+Bhekisipho Twala (Tswane University of Technology, Pretoria, South Africa)
+
+Beatrice Ombuki-Berman (Brock University, Ontario, Canada)
+
+Zuzana Oplatkova (Tomasa Bata University of Zlin,  Czech Republic)
+
+Jan Platos (University of Ostrava,  Czech Republic)
+
+Terrance van Zyl (University of Johannesburg, South Africa)
+
+Geoff Nitschke (University of Cape Town, South Africa)
+
+Abdallah Meraoumia (Larbi Tebessi University of Tebessa, Algeria)
+
+Abdulkadir Sengur (Firat University, Turkey)
+
+Abeer Alsadoon (Charles Sturt University, Sydney)
+
+Ahmed Al-Durra (Khalifa University of Science & Technology, UAE)
+
+Ajita Rattani (Wichita State University, USA)
+
+Amirrudin Kamsin (University of Malaya, Malaysia)
+
+Ana Maria Madureira (Institute of Engineering-Polytechnique of Porto, Portugal)
+
+Aswani Kumar Cherukuri (Vellore Institute of Technology, India)
+
+Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)
+
+Bharath Kumar Samanthula (Montclair State University, USA)
+
+Bin Wang (University of South Alabama, USA)
+
+Bozenna Pasik Duncan (The University of Kansas, USA)
+
+Dmitriy Klyushin (Taras Shevchenko National University of Kyiv, Ukrain)
+
+Evangelos E. Milios (Dalhousie University, Canada)
+
+H. Saparudin (University Sriwijaya, Indonesia)
+
+Halyna Vasyalevska (West Ukrainian National University, Ukraine)
+
+J.V.R Ravindra (Vardhaman College of Engineering, India) 
+
+Luis Ramos, TIB, Hannover, Germany
+
+Luigi Troiano (University of Salerno, Italy)
+
+M. Affan Badar (Indiana State University, USA)
+
+Mahdi Fathi (University of North Texas, USA)
+
+Mamun Bin Ibne Reaz (Universiti Kebangsaan, Malaysia)
+
+Mohamed-Rafik Bouguelia (Halmstad University, Sweden)
+
+Mufti Mahmud (Nottingham Trent University, UK)
+
+Nandana Mihindukulasooriya (IBM, USA)
+
+N. Subba Reddy (Gyeongsang National University, South Korea)
+
+Onur Dogan (İzmir Bakırçay University, Turkey)
+
+Qusay H. Mahmoud (University of Ontario, Canada)
+
+R.Balasubramani (NMAM Institute of Technology, India)
+
+Raja Sarath Kumar Boddu (Lenora College of Engineering, India)
+
+Roshan G. Ragel (University of Peradeniya, Sri Lanka)
+
+Salman Abdul Moiz (University of Hyderabad, India)
+
+Sarra BEN ABBES (Engie, France)
+
+Sanjeev Kumar Padmanabhan (Aarhus University, Denmark)
+
+Shankru Guggari (Query Data Systems, India)
+
+Shikha Mehta (JIIT Noida, India)
+
+Shishir Kumar Shandilya (VIT Bhopal University, India)
+
+Sumeet Dua (Lousiana Tech University, USA)
+
+Susana Hernandez (Technical University of Madrid, Spain)
+
+Udit Chawla (University of Engineering & Management (UEM), India)
+
+Sven Groppe, (University of Lübeck, Germany)
+
+Ulrik Söderström (Umea University, Sweden)
+
+V. Lakshmana Gomathi Nayagam (NIT Trichy, India)
+
+Viswanath Pulabaigari (Indian Institute of Information Technology-Sri City, India)
+
+Vitoantonio Bevilacqua (Polytechnic University of Bari, Italy)
+
+Yusniel Hidalgo Delgado (Universidad de las Ciencias Informáticas, Cuba)
+
 Hilal ARSLAN ,Bahrain
 
 Halyna Vasyalevska, West Ukrainian National University, Ukraine
