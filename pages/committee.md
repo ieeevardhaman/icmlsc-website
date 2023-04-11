@@ -23,15 +23,10 @@ Dr. JVR Ravindra , Principal, VCE
 
 Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
 
-Dr. Ketan Kotecha, Dean, Faculty of Engineering, Symbiosis International (Deemed University) and Director, Symbiosis Institute of Technology
 
 #### General Chairs
 
-Dr. RajaniKanth Aluvalu, Professor & HOD, CSE, Vardhaman College of Engineering, Hyderabad
-
-Dr Ali Kashif Bashir, Associate Professor (Senior Lecturer), Manchester Metropolitan University, UK.
-
-Dr shankaru Gujjari, Data Engineer, India
+Pr. Abdelkrim Haqiq, Director of Computer, Networks, Mobility and Modeling Laboratory, Morocco
 
 #### Publication Chair
 
@@ -41,7 +36,6 @@ Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 #### Program Chairs
 
-Dr. Atul Negi, Professor, Hyderabad Central University 
 
 Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
@@ -49,7 +43,7 @@ Prof. Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
 
 Dr. Raman Menon Unnikrishnan, Professor, College of Engineering and Computer Science, California State University & Fellow, IEEE, USA
 
-Pr. Abdelkrim Haqiq, Director of Computer, Networks, Mobility and Modeling Laboratory, Morocco
+
 
 Mr. Shreyansh Gandhi, Principal Data Scientist, Walmart Labs, CA, USA
 
@@ -247,7 +241,6 @@ Celia Shahnaz, Bangladesh University of Engineering & Technology,Bangladesh
 
 #### Publicity Chair
 
-Prof V Uma Maheshwari, Vardhaman College of Engineering, Hyderabad
 
 Dr. Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
@@ -263,17 +256,11 @@ Hilal ARSLAN ,Bahrain
 
 Dr. Muni Sekhar Velpuru, Associate Professor & HOD, IT, Vardhaman College of Engineering, Hyderabad
 
-Dr. G.A.E.Satish Kumar, Professor & HOD, ECE, Vardhaman College of Engineering, Hyderabad
 
-Dr.Kiran Kumar N, Professor & HOD, EEE, Vardhaman College of Engineering, Hyderabad
-
-Dr. P. Srinivasa Rao, HOD, Mechanical Engineering, Vardhaman College of Engineering, Hyderabad
 
 Dr. G. MALLIKARJUNA RAO, HOD, Civil Engineering, Vardhaman College of Engineering, Hyderabad
 
-Dr D Srinivas Reddy, HOD, Faculty Freshman Engineering, Vardhaman College of Engineering, Hyderabad
 
-Dr. V Sreehari, HOD, MBA, Vardhaman College of Engineering, Hyderabad
 
 #### Local Organizing Committee
 
