@@ -1,12 +1,80 @@
 <!DOCTYPE html>
-    {% include top.html %}
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author.email }}">
+    <title>{{ site.title }} - {{ site.subtitle }}</title>
+    <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+  </head>
     <html lang="en">
     <body>
-    {% include navigation.html %}
-    {% include header.html %}
+        <nav class="navbar sticky-top navbar-dark bg-brand navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand" href="/">ICMLSC 2022</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/#content">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/call-for-papers#content">Call for Papers</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/submission#content">Submission</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/important-dates#content">Important Dates</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/committee#content">Committee</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/venue#content">Venue</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/speakers#content">Speakers</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/registration#content">Registration</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/contact-us#content">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <img  src="/img/logos/springer.jpg" class="springer logo">
+        <span class="badge badge-secondary">Approval pending</span>
+   
+  <header class="masthead text-center text-white">
+      <div class="container">
+          <h1 class="title">{{ site.title }}</h1>
+          <h2 class="subtitle">{{ site.subtitle }}</h2>
+              <h4> 28th and 29th January, 2022</h4>
+         
+      </div>
+  </header>
     <section id="content">
         <div class="container lead">
-            {{ content }}
+            <h4>Due to rapidly changing COVID situations globally ICMLSC will take place online</h4>
+            <h2>
+                About
+            </h2>
+            <p>
+                The ICMLSC 2022: International Conference on Machine Learning, Security and Cloud Computing aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Machine Learning, Security and Cloud Computing.
+
+It also provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of Machine Learning, Security and Cloud Computing.
+
+ICMLSC is organized by Department of Computer Science and Engineering and Department of AI & ML, Vardhaman College of Engineering, Hyderabad.
+            </p>
         </div>
     </section>
     {% include gmaps.html %}
