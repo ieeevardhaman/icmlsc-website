@@ -17,7 +17,11 @@ FATE (fairness, accountability, transparency, and ethics) in AI and ML, especial
 Methods may be applied to relevant areas that aim towards social impact and sustainable societies, including but not limited to: agriculture, poverty mapping, disease surveillance, health screening, learning outcomes, resource allocation, etc. 
 We also encourage contributions on machine learning-led solutions for sustainable societies.
 
-The 3rd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
+#### Publication and Indexing:
+
+It is planned to publish the proceedings with Springer series (final approval pending)
+
+**Indexing:** The 3rd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
 <div class="row">
 <div class="col-md-4" markdown="1">
 ##### Track 1 - Machine Learning
@@ -110,11 +114,7 @@ The 3rd edition of this international conference, ICMLSC invites the original re
 </div>
 </div>
 
-#### Publication and Indexing:
 
-It is planned to publish the proceedings with Springer series (final approval pending)
-
-**Indexing:** The 3rd edition of this international conference, ICMLSC invites the original research papers on the following topics listed below, but not limited to:
 
 Extended versions of accepted and presented papers will be published in the **“International Journal of Computing and Digital Systems”**, a Scopus indexed journal.
 
