@@ -2,7 +2,6 @@
 layout: default
 permalink: /
 ---
----
 <!--
 ### Accepted Papers
 #### List 1
