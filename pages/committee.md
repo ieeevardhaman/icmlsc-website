@@ -26,9 +26,18 @@ Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, N
 
 #### General Chairs
 
-Pr. Abdelkrim Haqiq, Director of Computer, Networks, Mobility and Modeling Laboratory, Morocco
+M. A. Jabbar (Vardhaman College of Engineering, India)
+
+Abdelkrim Haqiq,  (Hasan first state university ,Morocco)
+
+Loveleen Gaur (Amity university , Noida )
+
 
 #### Publication Chair
+
+Udit Chawla (University of Engineering & Management (UEM),       India)
+
+Rupam sharma(central university  of AP,india )
 
 Dr. Fernando Ortiz-Rodriguez
 
@@ -36,6 +45,11 @@ Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 #### Program Chairs
 
+Shishir Kumar Shandilya (VIT Bhopal University, INDIA)
+
+Shikha Mehta (JIIT Noida. India)
+
+C.A Dhawale ( P R Pote patil College of Engineering and Management,India)
 
 Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
