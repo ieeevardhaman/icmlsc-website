@@ -9,8 +9,3 @@ permalink: /contact-us
 
 **Email:** <akhiljabbar.meerja@vardhaman.org>
 
-#### Dr. Rajanikanth Aluvalu
-
-**Email:** <rajanikanth.aluvalu@vardhaman.org>
-
-**Email:** <icmlsc@vardhaman.org>

@@ -39,11 +39,13 @@ Udit Chawla (University of Engineering & Management (UEM),       India)
 
 Rupam sharma(central university  of AP,india )
 
-Dr. Fernando Ortiz-Rodriguez
 
-Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 #### Program Chairs
+
+Fernando Ortiz-Rodriguez (Universidad Autonoma de Tamaulipas, Mexico)
+
+Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)
 
 Shishir Kumar Shandilya (VIT Bhopal University, INDIA)
 
@@ -51,25 +53,9 @@ Shikha Mehta (JIIT Noida. India)
 
 C.A Dhawale ( P R Pote patil College of Engineering and Management,India)
 
-Dr. Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
-
-Prof. Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
-
-Dr. Raman Menon Unnikrishnan, Professor, College of Engineering and Computer Science, California State University & Fellow, IEEE, USA
+Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 
-
-Mr. Shreyansh Gandhi, Principal Data Scientist, Walmart Labs, CA, USA
-
-Dr. Raman Arora, John Hopkins University, USA
-
-Prof. Rashmi Dravid, University of Northampton, UK
-
-Dr. Tianrui Li, Southwest Jiaotong University, China
-
-Prof. Lindy Nelson, University of Southern Mississippi, USA
-
-Dr. Shishir Kumar Shandilya, VIT Bhopal University
 
 #### International Program Committee
 
@@ -109,12 +95,6 @@ Chandra kudumula, Senior program analyst, USA
 
 #### Technical Program Committee
 
-
-M. A. Jabbar (Vardhaman College of Engineering, India)
-
-Fernando Ortiz-Rodriguez (Universidad Autonoma de Tamaulipas, Mexico)
-
-Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)
 
 Patrick Siarry (University of Paris-Est Créteil,France)
 
