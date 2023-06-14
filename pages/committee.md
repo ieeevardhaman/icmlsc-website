@@ -7,7 +7,7 @@ permalink: /committee
 
 #### Chief Patron
 
-Dr. T. Vijender Reddy, Chairman, VCE
+ T. Vijender Reddy, Chairman, VCE
 
 Sri M. Rajasekhar Reddy, Vice Chairman, VCE
 
@@ -17,11 +17,11 @@ Sri E. Prabhakar Reddy, Treasurer, VCE
 
 #### Patron
 
-Dr. JVR Ravindra , Principal, VCE
+ JVR Ravindra , Principal, VCE
 
 #### Honorary Chairs
 
-Dr. B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
+ B. L. Deekshatulu, Distinguished Fellow, IDRBT, Hyderabad and Ex-Director, NRSA
 
 
 #### General Chairs
@@ -35,7 +35,7 @@ Loveleen Gaur (Amity university , Noida )
 
 #### Publication Chair
 
-Udit Chawla (University of Engineering & Management (UEM),       India)
+Udit Chawla (University of Engineering & Management (UEM), India)
 
 Rupam sharma(central university  of AP,india )
 
@@ -56,40 +56,39 @@ C.A Dhawale ( P R Pote patil College of Engineering and Management,India)
 Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
 
 
-
 #### International Program Committee
 
-Dr. Sumeet Dua, Lousiana Tech University, USA
+ Sumeet Dua, Lousiana Tech University, USA
 
 Mr. Raghunandan Alugubelli, University of South Florida
 
-Dr. H. Saparudin, University Sriwijaya, Indonesia
+ H. Saparudin, University Sriwijaya, Indonesia
 
 Prof. Qusay H. Mahmoud, University of Ontario, Canada
 
-Dr. Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia 
+ Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia 
 
-Dr. Nandita Sen Gupta, University of Bahrain 
+ Nandita Sen Gupta, University of Bahrain 
 
-Dr. Susana Hernandez, Technical University, Madrid, Spain
+ Susana Hernandez, Technical University, Madrid, Spain
 
 Prof. Kim Youn Sook, Korea
 
-Dr. Bin Wang, University of South Alabama
+Bin Wang, University of South Alabama
 
-Dr. Ulrik, Umea University, Sweden
+ Ulrik, Umea University, Sweden
 
-Dr. Jack Singh, Director, Swinburne’s Digital Innovation Lab, Australia
+ Jack Singh, Director, Swinburne’s Digital Innovation Lab, 
 
-Dr. Maheswara Rao Valluri, Fiji National University, Fiji
+ Maheswara Rao Valluri, Fiji National University, 
 
-Dr. T. Sreenivas Sremath, Auckland University of Technology, New Zealand
+ T. Sreenivas Sremath, Auckland University of Technology, New 
 
-Dr. N. Subba Reddy, Gyeongsang National University, South Korea
+ N. Subba Reddy, Gyeongsang National University, South 
 
-Dr. Christopher Shelley, USA
+ Christopher Shelley, USA
 
-Dr. V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
+V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 Chandra kudumula, Senior program analyst, USA
 
@@ -180,15 +179,12 @@ Ayush Goyal (Texas A & M Ville University KingsVilley, Texas)
 
 Bharath Kumar Samanthula (Montclair State University, USA)
 
-Bin Wang (University of South Alabama, USA)
-
 Bozenna Pasik Duncan (The University of Kansas, USA)
 
 Dmitriy Klyushin (Taras Shevchenko National University of Kyiv, Ukrain)
 
 Evangelos E. Milios (Dalhousie University, Canada)
 
-H. Saparudin (University Sriwijaya, Indonesia)
 
 Halyna Vasyalevska (West Ukrainian National University, Ukraine)
 
@@ -202,19 +198,15 @@ M. Affan Badar (Indiana State University, USA)
 
 Mahdi Fathi (University of North Texas, USA)
 
-Mamun Bin Ibne Reaz (Universiti Kebangsaan, Malaysia)
-
 Mohamed-Rafik Bouguelia (Halmstad University, Sweden)
 
 Mufti Mahmud (Nottingham Trent University, UK)
 
 Nandana Mihindukulasooriya (IBM, USA)
 
-N. Subba Reddy (Gyeongsang National University, South Korea)
 
 Onur Dogan (İzmir Bakırçay University, Turkey)
 
-Qusay H. Mahmoud (University of Ontario, Canada)
 
 R.Balasubramani (NMAM Institute of Technology, India)
 
@@ -230,19 +222,9 @@ Sanjeev Kumar Padmanabhan (Aarhus University, Denmark)
 
 Shankru Guggari (Query Data Systems, India)
 
-Shikha Mehta (JIIT Noida, India)
-
-Shishir Kumar Shandilya (VIT Bhopal University, India)
-
 Sumeet Dua (Lousiana Tech University, USA)
 
-Susana Hernandez (Technical University of Madrid, Spain)
-
-Udit Chawla (University of Engineering & Management (UEM), India)
-
 Sven Groppe, (University of Lübeck, Germany)
-
-Ulrik Söderström (Umea University, Sweden)
 
 V. Lakshmana Gomathi Nayagam (NIT Trichy, India)
 
@@ -324,34 +306,6 @@ Manoj S. Sanke, SVKM’s NMIMS, Mumbai, India
 
 Sumeet Dua, Lousiana Tech University, USA
 
-H. Saparudin, University Sriwijaya, Indonesia
-
-Qusay H. Mahmoud, University of Ontario, Canada
-
-Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia
-
-Nandita Sen Gupta, University of Bahrain
-
-Susana Hernandez, Technical University, Madrid, Spain
-
-Prof. Kim Youn Sook, Korea
-
-Bin Wang, University of South Alabama
-
-Ulrik, Umea University, Sweden
-
-Jack Singh, Director, Swinburne’s Digital Innovation Lab, Australia
-
-Maheswara Rao Valluri, Fiji National University, Fiji
-
-Sreenivas Sremath, Auckland University of Technology, New Zealand
-
-N. Subba Reddy, Gyeongsang National University, South Korea
-
-Christopher Shelley, USA
-
-V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
-
 Christo Ananth, AMA International University, Salmabad, Kingdom of Bahrain
 
 Vitoantonio Bevilaqua, Polytechnic of Bari, Italy
@@ -364,7 +318,6 @@ Mufti Mahmum (Nottingham Trent University, UK)
 
 P Sivakumara (University of Malay, Malaysia)
 
-Fernando Ortiz-Rodriguez, Universidad Autonoma de Tamaulipas, Mexico
 
 Ketan Kotecha, Director, Symbiosis Institute of Technology, India
 
