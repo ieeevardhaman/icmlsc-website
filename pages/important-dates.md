@@ -9,7 +9,7 @@ permalink: /important-dates
 
 **Acceptance Notification:** 10th April  2024
 
-**Camera Ready Submission & Registration:**  20th April 2023
+**Camera Ready Submission & Registration:**  20th April 2024
 
 **Conference Dates:**  3rd and 4th May 2024
 
