@@ -16,7 +16,7 @@ permalink: /
 ---
 ## About
 ---
-The ICMLSC 2023: International conference on machine learning for society aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Machine Learning in society.
+The ICMLSC 2024: International conference on machine learning for society aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Machine Learning in society.
 
 It also provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of Machine Learning, and sustainability.
 
