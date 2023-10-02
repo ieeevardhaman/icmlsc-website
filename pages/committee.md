@@ -43,20 +43,12 @@ Rupam sharma(central university  of AP,india )
 
 #### Program Chairs
 
-Fernando Ortiz-Rodriguez (Universidad Autonoma de Tamaulipas, Mexico)
+Aboul Ella Hassanien, Scientific Research Group in Egypt, Cairo University, Egypt
 
-Sanju Tiwari (Universidad Autonoma de Tamaulipas, Mexico)
-
-Shishir Kumar Shandilya (VIT Bhopal University, INDIA)
-
-Shikha Mehta (JIIT Noida. India)
-
-C.A Dhawale ( P R Pote patil College of Engineering and Management,India)
-
-Subhendu Kumar Pani ,Orissa Engineering College,Bhubaneswar
+Ahmad Taher Azar, College of Computer & Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia - Faculty of Computers and Artiﬁcial Intelligence, Benha University, Benha, Egypt
 
 
-#### International Program Committee
+#### Technical Program Committee
 
  Sumeet Dua, Lousiana Tech University, USA
 
@@ -91,9 +83,6 @@ Bin Wang, University of South Alabama
 V. Suresh Babu, Arclabs Research and Innovation Center, Ireland
 
 Chandra kudumula, Senior program analyst, USA
-
-#### Technical Program Committee
-
 
 Patrick Siarry (University of Paris-Est Créteil,France)
 
@@ -348,6 +337,34 @@ Aswani Kumar Cherukuri, Professor, School of IT & Engineering, Vellore Institute
 Puneet Kumar Mishra, Head, Satellite Antenna Characterization, Test & Design Section at U R RAO SATELLITE CENTRE, India
 
 Celia Shahnaz, Bangladesh University of Engineering & Technology,Bangladesh
+
+Azza Ahmed Abdo Ali, Abdulrahman Bin Faisal University, Saudi Arabia
+
+Brahim Ouhbi, National School of Arts and Crafts (ENSAM), Meknès, Morocco
+
+Driss Bouzidi, ENSIAS, Mohammed V University, Rabat, Morocco
+
+Driss El Ouadghiri, Faculty of Sciences, Meknès, Morocco
+
+Essaid Sabir, ENSEM, Hassan II University, Casablanca, Morocco
+
+Lavika Goel, Malaviya, National Institute of Technology (NIT), Jaipur- India
+
+Mohamed Nemiche, Faculty of Sciences, Agadir, Morocco
+
+Youmna El Hissi, ENCG, Sultan Moulay Slimane University, Beni Mellal, Morocco
+
+Yasir Javed, Automated Systems & Soft Computing Lab, Prince Sultan University, Riyadh,
+Saudi Arabia.
+
+Syed Umar Amin, Automated Systems & Soft Computing Lab, Prince Sultan University,
+Riyadh, Saudi Arabia.
+
+Shrooq Alsenan, Automated Systems & Soft Computing Lab, Prince Sultan University,
+Riyadh, Saudi Arabia.
+
+Zafar Iqbal Khan, Automated Systems & Soft Computing Lab, Prince Sultan University,
+Riyadh, Saudi Arabi
 
 #### Publicity Chair
 
