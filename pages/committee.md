@@ -30,7 +30,7 @@ M. A. Jabbar (Vardhaman College of Engineering, India)
 
 Abdelkrim Haqiq,  (Hasan first state university ,Morocco)
 
-Loveleen Gaur (Amity university , Noida )
+Loveleen Gaur (Taylor university ,Malaysia)
 
 
 #### Publication Chair

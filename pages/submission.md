@@ -17,7 +17,7 @@ Papers are expected to be within the 8-15 page range. The review process takes i
 
 - All papers will be assigned a paper ID. You will receive this ID after you have completed the paper submission process. Authors are then required to use the paper ID assigned to them for all future correspondence regarding this paper.
 
-- The manuscripts initially will be checked for PLAGIARISM followed by double blind review process.
+- The manuscripts initially will be checked for PLAGIARISM followed by single  blind review process.
 
 - All papers that confirm to submission guidelines will be peer-reviewed by at least two independent referees from the Conference Review Board and evaluated based on originality, technical and/or research content/depth, correctness, relevance to conference, contributions, and readability.
 
