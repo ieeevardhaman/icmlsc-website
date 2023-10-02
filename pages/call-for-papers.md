@@ -12,63 +12,109 @@ A sustainable society is driven by the principle of realizing peace and prosperi
 It is planned to publish the proceedings with Springer series (final approval pending)
 
 
-## Track 1: Ethics and Fairness in Machine Learning:
+#### Track 1: Ethics and Fairness in Machine Learning:
 •	Fairness and bias in machine learning algorithms
+
 •	Ethical considerations in data collection and usage
+
 •	Responsible AI and machine learning practices
+
 •	Algorithmic transparency and interpretability
-## Track 2: Machine learning for Social Good:
+
+#### Track 2: Machine learning for Social Good:
 •	Healthcare applications of machine learning
+
 •	Environmental sustainability and conservation
+
 •	Poverty alleviation and social welfare
+
 •	Disaster response and recovery
-## Track 3: Machine learning for Education and Outreach:
+
+#### Track 3: Machine learning for Education and Outreach:
 •	Machine learning in education and skill development
+
 •	Public awareness and education on AI and ML
+
 •	Outreach programs for underrepresented communities
+
 •	Promoting diversity and inclusion in AI/ML fields
-## Track 4: Machine learning for Privacy and Security:
+
+#### Track 4: Machine learning for Privacy and Security:
 •	Data privacy and protection in machine learning
+
 •	Secure machine learning models and deployment
+
 •	Adversarial attacks and defences
+
 •	Privacy-preserving machine learning techniques
-## Track 5: Machine learning for Natural Language Processing for Society:
+
+#### Track 5: Machine learning for Natural Language Processing for Society:
 •	Machine translation and cross-lingual communication
+
 •	Sentiment analysis and emotion detection
+
 •	Fake news detection and information verification
+
 •	Language models for accessibility and inclusivity
-## Track 6: Machine learning for Healthcare and Biomedical Applications:
+
+#### Track 6: Machine learning for Healthcare and Biomedical Applications:
 •	Medical image analysis and diagnosis
+
 •	Drug discovery and personalized medicine
+
 •	Predictive analytics in healthcare
+
 •	Monitoring and improving healthcare delivery
-## Track 7: Machine Learning for Education:
+
+#### Track 7: Machine Learning for Education:
 •	Personalized learning and recommendation systems
+
 •	Educational data mining and learning analytics
+
 •	Adaptive assessment and grading systems
+
 •	Educational technology and AI-enhanced classrooms
-## Track 8: Machine learning for Social and Economic Impact:
+#### Track 8: Machine learning for Social and Economic Impact:
 •	Labor market effects of automation and AI
+
 •	Economic implications of AI adoption
+
 •	AI in government and public policy
+
 •	Social and cultural impacts of AI/ML
-## Track 9: Machine learning in Agriculture and Food Security:
+
+#### Track 9: Machine learning in Agriculture and Food Security:
 •	Precision agriculture and crop management
+
 •	Food quality and safety monitoring
+
 •	Supply chain optimization
+
 •	Pest and disease detection
-## Track 10: Machine Learning in Urban Planning:
+
+#### Track 10: Machine Learning in Urban Planning:
 •	Smart city applications and infrastructure
+
 •	Traffic management and transportation optimization
+
 •	Energy efficiency and sustainable urban development
+
 •	Crime prediction and public safety
-## Track 11: Machine learning for Humanitarian Aid and Crisis Response:
+
+#### Track 11: Machine learning for Humanitarian Aid and Crisis Response:
 •	Disaster management and relief efforts
-•	Refugee support and displacement tracking
+
+•	Refugee support and displacement## tracking
+
 •	Humanitarian logistics and resource allocation
+
 •	Conflict resolution and peacekeeping
-## Track 12: Machine learning in  Arts & Culture:
+
+#### Track 12: Machine learning in  Arts & Culture:
 •	Creative AI and generative art
+
 •	Cultural preservation and heritage digitization
+
 •	AI-enhanced entertainment and storytelling
+
 •	Music and performance AI applications
