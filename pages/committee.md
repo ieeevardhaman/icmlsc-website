@@ -28,7 +28,7 @@ Sri E. Prabhakar Reddy, Treasurer, VCE
 
 M. A. Jabbar (Vardhaman College of Engineering, India)
 
-Abdelkrim Haqiq,  (Hasan first state university ,Morocco)
+Abdelkrim Haqiq (FST, Hassan 1st University, Settat Morocco)
 
 Loveleen Gaur (Taylor university ,Malaysia)
 
@@ -97,10 +97,6 @@ José Javier Astráin-Escola (Public University of Navarra, Spain)
 Rajab	Challoo (Texas A & M Ville University KingsVilley, Texas)
 
 Moufida Maimour (Université de Lorraine, CRAN, France)
-
-Iman El Mir (FST, Hassan 1st University, Settat, Morocco)
-
-Mohamed Nabil	 (FST, Hassan 1st University, Morocco)
 
 Ifiok Udo (University of Uyo, Nigeria)
 
@@ -235,8 +231,6 @@ Mooring Youp Director, Open university Malaysia
 
 Abdallah MERAOUMIA, ALGERIA
 
-WAHABI AICHA, Morocco
-
 Samir AMRAQUI, Université Mohamed Premier,Oujda, Maroc
 
 Mostafa EL HABIB DAHO ,Algeria
@@ -340,19 +334,7 @@ Celia Shahnaz, Bangladesh University of Engineering & Technology,Bangladesh
 
 Azza Ahmed Abdo Ali, Abdulrahman Bin Faisal University, Saudi Arabia
 
-Brahim Ouhbi, National School of Arts and Crafts (ENSAM), Meknès, Morocco
-
-Driss Bouzidi, ENSIAS, Mohammed V University, Rabat, Morocco
-
-Driss El Ouadghiri, Faculty of Sciences, Meknès, Morocco
-
-Essaid Sabir, ENSEM, Hassan II University, Casablanca, Morocco
-
 Lavika Goel, Malaviya, National Institute of Technology (NIT), Jaipur- India
-
-Mohamed Nemiche, Faculty of Sciences, Agadir, Morocco
-
-Youmna El Hissi, ENCG, Sultan Moulay Slimane University, Beni Mellal, Morocco
 
 Yasir Javed, Automated Systems & Soft Computing Lab, Prince Sultan University, Riyadh,
 Saudi Arabia.
@@ -365,6 +347,77 @@ Riyadh, Saudi Arabia.
 
 Zafar Iqbal Khan, Automated Systems & Soft Computing Lab, Prince Sultan University,
 Riyadh, Saudi Arabi
+
+Abdelghani Bentahar	FST, Hassan 1st University, Settat, Morocco
+
+Abdelhay Haqiq	ESI, Mohammed V University, Rabat, Morocco
+
+Abdellah Jamali	ENSA - Berchid, Hassan 1st University, Settat, Morocco
+
+Abdellah Adib	FST - Mohammedia, University Hassan II, Casablanca, Morocco
+
+Abdellah Zaaloul	Ibn Zohr University, Agadir, Morocco
+
+Abdelmajid Hajami	FST, Hassan 1st University, Settat, Morocco
+
+Abderrahim Sekkaki	Faculty of Sciences Aïn Chock, University Hassan II, Casablanca, Morocco
+
+Ahmed Boujnoui	FST, Hassan 1st University, Settat, Morocco
+
+Adam Slowik	Koszalin University of Technology, Koszalin, Poland
+
+Adnane Founoun	FST, Hassan 1st University, Settat, Morocco
+
+Bouabid El Ouahidi	Faculty of Sciences, Mohammed V University, Rabat, Morocco
+
+Brahim Ouhbi	ENSAM, Moulay Ismail University, Meknès, Morocco
+
+Driss Bouzidi	ENSIAS, Mohammed V University, Rabat, Morocco
+
+Driss El Ouadghiri	Faculty of Sciences, Moulay Ismail University, Meknès, Morocco
+
+El Moukhtar Zemmouri	ENSAM, My Ismail University, Méknes, Morocco
+
+Ghizlane Orhanou	Faculty of Sciences, Mohammed V University, Rabat, Morocco
+
+Hamid Taramit	FST, Hassan 1st University, Settat, Morocco
+
+Hicham Tribak	Polydisciplinary Faculty, Oaurzazate, Morocco
+
+Houssam Halmaoui	ISMAC, Rabat, Morocco
+
+Iman Elmir	I2S, Hassan 1st University, Settat, Morocco
+
+Imane Lmati	FST, Hassan 1st University, Settat, Morocco
+
+Karmela Aleksis Maslac	Zagreb School of Economics and Management, Croatia
+
+krishnaveni Marimuthu	Avinashilingam University for Women,Coimbatore, India
+
+Mohamed Et-Tolba 	INPT, Rabat, Morocco
+
+Mohamed Hanini	FST, Hassan 1st University, Settat, Morocco
+
+Mohamerd Kissi	FST - Mohammedia, University Hassan II, Casablanca, Morocco
+
+Mohamed Nabil	Faculty of Sciences, Chouaïb Doukali University, El Jadida, Morocco
+
+Mohamed Naimi	ENSA, Berchid, Morooco
+
+Omar El Beggar	FST - Mohammedia, University Hassan II, Casablanca, Morocco
+
+Ouail Ouchetto    	FSJES, Université Hassan II, Casablanca, Morocco
+
+Parthasarathy Subashini	Avinashilingam University for Women,Coimbatore, India
+
+Rachid Latif	ENSA, Ibn Zohr University, Agadir, Morocco
+
+Said El Kafhali	FST, Hassan 1st University, Settat, Morocco
+
+Samir Anter	FST - Mohammedia, University Hassan II, Casablanca, Morocco
+
+Sara Arezki	FST, Hassan 1st University, Settat, Morocco
+
 
 #### Publicity Chair
 
