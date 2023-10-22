@@ -418,6 +418,42 @@ Samir Anter	FST - Mohammedia, University Hassan II, Casablanca, Morocco
 
 Sara Arezki	FST, Hassan 1st University, Settat, Morocco
 
+Abderrahim Marzouk,	FST, Hassan 1st University, Settat, Morocco
+
+Ahmed Nait Sidi Moh,	Jean Monnet University, Saint Etienne, France
+
+Amine Ben Makhlouf,	FST, Hassan 1st University, Settat, Morocco
+
+Amine Saida,	FST - Mohammedia, Hassan II University, Casablanca, Morocco
+
+Basma Boukenze,	IR2M, FST, Hassan 1st University, Settat, Morocco
+
+Faddoul Khoukhi,	FST - Mohammedia, Hassan II University, Casablanca, Morocco
+
+Hajar Mousannif,	FS Semlalia, Cadi Ayyad University, Marrakesh, Morocco
+
+Hatem Ben Sta,	University Tunis El Manar, Tunisia
+
+Jaouad Dabounou,	FST, Hassan 1st University, Settat, Morocco
+
+Khadija Douzi,	FST - Mohammedia, Hassan II University, Casablanca, Morocco
+
+Mohammed Ridounai,	EST, Hassan II University, Casablanca, Morocco
+
+Nabil Laachfoubi,	FST, Hassan 1st University, Settat, Morocco
+
+Najlae Idrissi,	FST, Moulay Slimane University, Beni Mellal, Morocco
+
+Nassereddine Bouchaib,	FST, Hassan 1st University, Settat, Morocco
+
+Nizar Rokbani,	University of Sousse, Tunisia
+
+Sam Gounda,	British University of Vietnam, Vietnam
+
+Samira Douzi,	Faculty of Medicine and Pharmacy, Mohammed V University, Rabat, Morocco
+
+Zakaria Boulouard,	FST - Mohammedia, Hassan II University, Casablanca, Morocco
+
 
 #### Publicity Chair
 
