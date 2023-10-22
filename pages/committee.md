@@ -35,6 +35,8 @@ Loveleen Gaur (Taylor university ,Malaysia)
 
 #### Publication Chair
 
+Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia
+
 Udit Chawla (University of Engineering & Management (UEM), India)
 
 Rupam sharma(central university  of AP,india )
@@ -57,8 +59,6 @@ Mr. Raghunandan Alugubelli, University of South Florida
  H. Saparudin, University Sriwijaya, Indonesia
 
 Prof. Qusay H. Mahmoud, University of Ontario, Canada
-
- Mamun Bin Ibne Reaz, Universiti Kebangsaan, Malaysia 
 
  Nandita Sen Gupta, University of Bahrain 
 
@@ -468,21 +468,4 @@ Dr. Mahesh Tr. , St. Johns Institute of Technology, Bangalore, India
 
 Hilal ARSLAN ,Bahrain
 
-### Advisory Committee
-
-Dr. Muni Sekhar Velpuru, Associate Professor & HOD, IT, Vardhaman College of Engineering, Hyderabad
-
-
-
-Dr. G. MALLIKARJUNA RAO, HOD, Civil Engineering, Vardhaman College of Engineering, Hyderabad
-
-
-
-#### Local Organizing Committee
-
-P Swetha , Vardhaman College of Engineering
-
-D Sowmya ,Vardhaman College of Engineering
-
-Dr M Y Babu,Vardhaman College of Engineering
 
