@@ -12,109 +12,84 @@ A sustainable society is driven by the principle of realizing peace and prosperi
 It is planned to publish the proceedings with Springer series (final approval pending)
 
 
-#### Track 1: Ethics and Fairness in Machine Learning:
-•	Fairness and bias in machine learning algorithms
+##### Track 1 : Machine Learning Algorithms and Models:
 
-•	Ethical considerations in data collection and usage
+• Novel machine learning algorithms
 
-•	Responsible AI and machine learning practices
+• Deep learning architectures
 
-•	Algorithmic transparency and interpretability
+• Reinforcement learning
 
-#### Track 2: Machine learning for Social Good:
-•	Healthcare applications of machine learning
+• Transfer learning
 
-•	Environmental sustainability and conservation
+• Explainable AI
 
-•	Poverty alleviation and social welfare
+##### Track 2 : Security in Machine Learning:
 
-•	Disaster response and recovery
+• Adversarial machine learning
 
-#### Track 3: Machine learning for Education and Outreach:
-•	Machine learning in education and skill development
+• Privacy-preserving machine learning
 
-•	Public awareness and education on AI and ML
+• Robustness and reliability of machine learning models
 
-•	Outreach programs for underrepresented communities
+• Threat detection and mitigation in ML systems
 
-•	Promoting diversity and inclusion in AI/ML fields
+• Secure federated learning
 
-#### Track 4: Machine learning for Privacy and Security:
-•	Data privacy and protection in machine learning
+##### Track 3: Cloud Computing and Machine Learning Integration:
 
-•	Secure machine learning models and deployment
+• Cloud-based machine learning platforms
 
-•	Adversarial attacks and defences
+• Scalability and performance in cloud-based ML
 
-•	Privacy-preserving machine learning techniques
+• Serverless computing for ML applications
 
-#### Track 5: Machine learning for Natural Language Processing for Society:
-•	Machine translation and cross-lingual communication
+• Edge computing and machine learning
 
-•	Sentiment analysis and emotion detection
+• Hybrid cloud architectures for ML
 
-•	Fake news detection and information verification
+##### Track 4 : Cybersecurity and Threat Intelligence:
 
-•	Language models for accessibility and inclusivity
+• Cybersecurity analytics using machine learning
 
-#### Track 6: Machine learning for Healthcare and Biomedical Applications:
-•	Medical image analysis and diagnosis
+• Threat detection and response
 
-•	Drug discovery and personalized medicine
+• Anomaly detection in security logs
 
-•	Predictive analytics in healthcare
+• Machine learning for malware detection
 
-•	Monitoring and improving healthcare delivery
+• Security in IoT and connected devices
 
-#### Track 7: Machine Learning for Education:
-•	Personalized learning and recommendation systems
+##### Track 5 : Privacy and Ethical Considerations:
 
-•	Educational data mining and learning analytics
+• Ethical issues in machine learning
 
-•	Adaptive assessment and grading systems
+• Fairness and bias in ML algorithms
 
-•	Educational technology and AI-enhanced classrooms
-#### Track 8: Machine learning for Social and Economic Impact:
-•	Labor market effects of automation and AI
+• Responsible AI practices
 
-•	Economic implications of AI adoption
+• Legal and regulatory aspects of ML and security
 
-•	AI in government and public policy
+• Privacy-preserving techniques in ML
 
-•	Social and cultural impacts of AI/ML
+##### Track 6:  Secure Cloud Architectures:
 
-#### Track 9: Machine learning in Agriculture and Food Security:
-•	Precision agriculture and crop management
+• Cloud security best practices
 
-•	Food quality and safety monitoring
+• Identity and access management in the cloud
 
-•	Supply chain optimization
+• Encryption and data protection in the cloud
 
-•	Pest and disease detection
+• Compliance and auditing in cloud environments
 
-#### Track 10: Machine Learning in Urban Planning:
-•	Smart city applications and infrastructure
+• Security automation and orchestration in the cloud
 
-•	Traffic management and transportation optimization
+##### Track 7: Case Studies and Applications:
 
-•	Energy efficiency and sustainable urban development
+• Real-world applications of machine learning in security
 
-•	Crime prediction and public safety
+• Cloud-based solutions for specific industries
 
-#### Track 11: Machine learning for Humanitarian Aid and Crisis Response:
-•	Disaster management and relief efforts
+• Success stories and challenges in implementing ML for security
 
-•	Refugee support and displacement## tracking
-
-•	Humanitarian logistics and resource allocation
-
-•	Conflict resolution and peacekeeping
-
-#### Track 12: Machine learning in  Arts & Culture:
-•	Creative AI and generative art
-
-•	Cultural preservation and heritage digitization
-
-•	AI-enhanced entertainment and storytelling
-
-•	Music and performance AI applications
+• Industry-specific use cases in the intersection of ML, security, and cloud computing
