@@ -28,11 +28,12 @@ Sri E. Prabhakar Reddy, Treasurer, VCE
 
 M. A. Jabbar (Vardhaman College of Engineering, India)
 
+Prof. Aboul Ella Hassanien(Scientific Research Group in Egypt, Cairo University, Egypt)
+
 Abdelkrim Haqiq (FST, Hassan 1st University, Settat Morocco)
 
 Loveleen Gaur (Taylor university ,Malaysia)
 
-Prof. Aboul Ella Hassanien(FST, Hassan 1st University, Settat Morocco)
 
 
 #### Publication Chair
@@ -47,7 +48,6 @@ Rupam sharma(central university  of AP,india )
 
 #### Program Chairs
 
-Aboul Ella Hassanien, Scientific Research Group in Egypt, Cairo University, Egypt
 
 Ahmad Taher Azar, College of Computer & Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia - Faculty of Computers and Artiﬁcial Intelligence, Benha University, Benha, Egypt
 
