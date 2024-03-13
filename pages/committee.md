@@ -32,6 +32,8 @@ Abdelkrim Haqiq (FST, Hassan 1st University, Settat Morocco)
 
 Loveleen Gaur (Taylor university ,Malaysia)
 
+Prof. Aboul Ella Hassanien(FST, Hassan 1st University, Settat Morocco)
+
 
 #### Publication Chair
 
