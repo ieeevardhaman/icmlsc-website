@@ -32,8 +32,6 @@ Prof. Aboul Ella Hassanien(Scientific Research Group in Egypt, Cairo University,
 
 Abdelkrim Haqiq (FST, Hassan 1st University, Settat Morocco)
 
-Loveleen Gaur (Taylor university ,Malaysia)
-
 
 
 #### Publication Chair
