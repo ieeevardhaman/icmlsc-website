@@ -53,8 +53,6 @@ Ahmad Taher Azar, College of Computer & Information Sciences, Prince Sultan Univ
 Essaid Sabir,TÉLUQ, Université du Québec, Montréal, Canada
 
 #### Technical Program Committee
-Hafssa Benaboud, Faculty of Sciences, Mohammed V University, Rabat, Morocco
-
 Abeer Alsadoon, Charles Sturt University, Sydney, Australia 
 
 Adam Slowik Koszalin,  University of Technology, Koszalin, Poland
@@ -430,6 +428,9 @@ Zeriab Es Sadek Mohamed, ENSAM, Mohammed V University, Rabat, Morocco
 Zine-Dine Khalid, Faculty of Sciences, Mohammed V University, Rabat, Morocco
 
 Zuzana Oplatkova, Tomasa Bata University of Zlin, Czech Republic
+
+Hafssa Benaboud, Faculty of Sciences, Mohammed V University, Rabat, Morocco
+
 
 
 #### Publicity Chair
