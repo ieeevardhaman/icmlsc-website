@@ -32,6 +32,8 @@ Prof. Aboul Ella Hassanien(Scientific Research Group in Egypt, Cairo University,
 
 Abdelkrim Haqiq (FST, Hassan 1st University, Settat Morocco)
 
+Ahmad Taher Azar, College of Computer & Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia - Faculty of Computers and Artiﬁcial Intelligence, Benha University, Egypt
+
 
 
 #### Publication Chair
@@ -49,8 +51,11 @@ Rupam sharma(central university  of AP,india )
 
 Ahmad Taher Azar, College of Computer & Information Sciences, Prince Sultan University, Riyadh, Saudi Arabia - Faculty of Computers and Artiﬁcial Intelligence, Benha University, Benha, Egypt
 
+Essaid Sabir,TÉLUQ, Université du Québec, Montréal, Canada
 
 #### Technical Program Committee
+Hafssa Benaboud, Faculty of Sciences, Mohammed V University, Rabat, Morocco
+
 Abeer Alsadoon, Charles Sturt University, Sydney, Australia 
 
 Adam Slowik Koszalin,  University of Technology, Koszalin, Poland
