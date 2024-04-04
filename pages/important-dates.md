@@ -11,5 +11,5 @@ permalink: /important-dates
 
 **Camera Ready Submission & Registration:**  20th November 2024
 
-**Conference Dates:**  19th and 20th November 2024
+**Conference Dates:**  19th and 20th December 2024
 
